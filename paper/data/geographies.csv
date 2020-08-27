@@ -1,0 +1,2021 @@
+au13,au13_desc,rc13,rc13_desc,ta13,ta13_desc
+500100,Awanui,1,Northland Region,1,Far North District
+500202,Karikari Peninsula-Maungataniwha,1,Northland Region,1,Far North District
+500203,Taipa Bay-Mangonui,1,Northland Region,1,Far North District
+500204,Herekino,1,Northland Region,1,Far North District
+500205,Ahipara,1,Northland Region,1,Far North District
+500206,North Cape,1,Northland Region,1,Far North District
+500207,Houhora,1,Northland Region,1,Far North District
+500208,Motutangi-Kareponia,1,Northland Region,1,Far North District
+500301,Kaitaia West,1,Northland Region,1,Far North District
+500302,Kaitaia East,1,Northland Region,1,Far North District
+500401,Kaeo,1,Northland Region,1,Far North District
+500402,Mangapa-Matauri Bay,1,Northland Region,1,Far North District
+500500,Kohukohu,1,Northland Region,1,Far North District
+500600,Rawene,1,Northland Region,1,Far North District
+500700,Omapere and Opononi,1,Northland Region,1,Far North District
+500801,Hokianga North,1,Northland Region,1,Far North District
+500802,Hokianga South,1,Northland Region,1,Far North District
+500900,Kerikeri,1,Northland Region,1,Far North District
+501000,Russell,1,Northland Region,1,Far North District
+501100,Paihia,1,Northland Region,1,Far North District
+501200,Haruru Falls,1,Northland Region,1,Far North District
+501300,Opua East,1,Northland Region,1,Far North District
+501400,Kawakawa,1,Northland Region,1,Far North District
+501500,Moerewa,1,Northland Region,1,Far North District
+501612,Opua West,1,Northland Region,1,Far North District
+501613,Bay of Islands,1,Northland Region,1,Far North District
+501614,Kapiro,1,Northland Region,1,Far North District
+501615,Waitangi,1,Northland Region,1,Far North District
+501620,Pokere-Waihaha,1,Northland Region,1,Far North District
+501631,Okaihau,1,Northland Region,1,Far North District
+501632,Ohaeawai,1,Northland Region,1,Far North District
+501633,Waihou Valley-Hupara,1,Northland Region,1,Far North District
+501634,Ngapuhi-Kaikou,1,Northland Region,1,Far North District
+501700,Kaikohe,1,Northland Region,1,Far North District
+501802,Opouteke-Tanekaha,1,Northland Region,2,Whangarei District
+501806,Marsden Point-Ruakaka,1,Northland Region,2,Whangarei District
+501807,Ngunguru,1,Northland Region,2,Whangarei District
+501809,Wharekohe-Oakleigh,1,Northland Region,2,Whangarei District
+501810,Maungatapere,1,Northland Region,2,Whangarei District
+501811,Waiotira-Springfield,1,Northland Region,2,Whangarei District
+501813,Whangaruru Harbour,1,Northland Region,2,Whangarei District
+501814,Punaruku-Kiripaka,1,Northland Region,2,Whangarei District
+501815,Bream Bay,1,Northland Region,2,Whangarei District
+501816,Waipu,1,Northland Region,2,Whangarei District
+501817,Pataua-Whareora,1,Northland Region,2,Whangarei District
+501818,Parua Bay,1,Northland Region,2,Whangarei District
+501819,Bream Head,1,Northland Region,2,Whangarei District
+502001,Springs Flat,1,Northland Region,2,Whangarei District
+502002,Three Mile Bush,1,Northland Region,2,Whangarei District
+502003,Te Hihi,1,Northland Region,2,Whangarei District
+502004,Abbey Caves,1,Northland Region,2,Whangarei District
+502005,Otaika-Portland,1,Northland Region,2,Whangarei District
+502101,Kamo West,1,Northland Region,2,Whangarei District
+502102,Kamo East,1,Northland Region,2,Whangarei District
+502201,Tikipunga West,1,Northland Region,2,Whangarei District
+502202,Tikipunga East,1,Northland Region,2,Whangarei District
+502300,Whau Valley,1,Northland Region,2,Whangarei District
+502400,Otangarei,1,Northland Region,2,Whangarei District
+502500,Western Hills,1,Northland Region,2,Whangarei District
+502600,Kensington,1,Northland Region,2,Whangarei District
+502700,Mairtown,1,Northland Region,2,Whangarei District
+502800,Regent,1,Northland Region,2,Whangarei District
+502900,Woodhill,1,Northland Region,2,Whangarei District
+503000,Vinetown,1,Northland Region,2,Whangarei District
+503100,Whangarei Central,1,Northland Region,2,Whangarei District
+503200,Riverside,1,Northland Region,2,Whangarei District
+503300,Horahora,1,Northland Region,2,Whangarei District
+503400,Maunu,1,Northland Region,2,Whangarei District
+503500,Raumanga East,1,Northland Region,2,Whangarei District
+503600,Morningside,1,Northland Region,2,Whangarei District
+503700,Parahaki,1,Northland Region,2,Whangarei District
+503800,Raumanga West,1,Northland Region,2,Whangarei District
+503900,Port-Limeburners,1,Northland Region,2,Whangarei District
+504000,Sherwood Rise,1,Northland Region,2,Whangarei District
+504100,Onerahi,1,Northland Region,2,Whangarei District
+504300,Hikurangi,1,Northland Region,2,Whangarei District
+504400,Te Kopuru,1,Northland Region,3,Kaipara District
+504501,Kaipara Coastal,1,Northland Region,3,Kaipara District
+504502,Maungaru,1,Northland Region,3,Kaipara District
+504600,Dargaville,1,Northland Region,3,Kaipara District
+504700,Maungaturoto,1,Northland Region,3,Kaipara District
+504800,Ruawai,1,Northland Region,3,Kaipara District
+504900,Kaiwaka,1,Northland Region,3,Kaipara District
+505010,Rehia-Oneriri,1,Northland Region,3,Kaipara District
+505021,Mangawhai,1,Northland Region,3,Kaipara District
+505022,Mangawhai Heads,1,Northland Region,3,Kaipara District
+505300,Wellsford,2,Auckland Region,76,Auckland
+505400,Leigh,2,Auckland Region,76,Auckland
+505500,Warkworth,2,Auckland Region,76,Auckland
+505601,Waimauku,2,Auckland Region,76,Auckland
+505602,Huapai,2,Auckland Region,76,Auckland
+505603,Riverhead Urban,2,Auckland Region,76,Auckland
+505604,Kumeu East,2,Auckland Region,76,Auckland
+505605,Kumeu West,2,Auckland Region,76,Auckland
+505700,Waipareira West,2,Auckland Region,76,Auckland
+505803,Waiwera,2,Auckland Region,76,Auckland
+505804,Hatfields Beach,2,Auckland Region,76,Auckland
+505805,Orewa,2,Auckland Region,76,Auckland
+505806,Silverdale Central,2,Auckland Region,76,Auckland
+505807,Red Beach West,2,Auckland Region,76,Auckland
+505808,Red Beach East,2,Auckland Region,76,Auckland
+505902,Manly,2,Auckland Region,76,Auckland
+505904,Army Bay,2,Auckland Region,76,Auckland
+505906,Vipond,2,Auckland Region,76,Auckland
+505907,Stanmore Bay West,2,Auckland Region,76,Auckland
+505908,Stanmore Bay East,2,Auckland Region,76,Auckland
+505909,Wade Heads,2,Auckland Region,76,Auckland
+505910,Gulf Harbour,2,Auckland Region,76,Auckland
+505911,Gulf Harbour Marina,2,Auckland Region,76,Auckland
+506001,Weiti River,2,Auckland Region,76,Auckland
+506002,Stillwater,2,Auckland Region,76,Auckland
+506003,Silverdale South,2,Auckland Region,76,Auckland
+506201,Silverdale North,2,Auckland Region,76,Auckland
+506202,Orewa West,2,Auckland Region,76,Auckland
+506300,Dairy Flat-Redvale,2,Auckland Region,76,Auckland
+506400,Paremoremo West,2,Auckland Region,76,Auckland
+506613,Tauhoa-Puhoi,2,Auckland Region,76,Auckland
+506614,Tahekeroa,2,Auckland Region,76,Auckland
+506616,Matheson Bay,2,Auckland Region,76,Auckland
+506620,Kawau,2,Auckland Region,76,Auckland
+506631,Snells Beach,2,Auckland Region,76,Auckland
+506633,Algies Bay,2,Auckland Region,76,Auckland
+506634,Mahurangi,2,Auckland Region,76,Auckland
+506642,South Head,2,Auckland Region,76,Auckland
+506644,Parakai Rural,2,Auckland Region,76,Auckland
+506645,Parakai Urban,2,Auckland Region,76,Auckland
+506646,Kaukapakapa Rural,2,Auckland Region,76,Auckland
+506647,Kaukapakapa,2,Auckland Region,76,Auckland
+506648,Helensville South,2,Auckland Region,76,Auckland
+506652,Rewiti,2,Auckland Region,76,Auckland
+506653,Riverhead,2,Auckland Region,76,Auckland
+506654,Muriwai Beach,2,Auckland Region,76,Auckland
+506655,Muriwai Valley,2,Auckland Region,76,Auckland
+506656,Waitakere West,2,Auckland Region,76,Auckland
+506657,Point Wells,2,Auckland Region,76,Auckland
+506658,Omaha,2,Auckland Region,76,Auckland
+506659,Matakana,2,Auckland Region,76,Auckland
+506660,Cape Rodney,2,Auckland Region,76,Auckland
+506661,Cape Rodney South,2,Auckland Region,76,Auckland
+506800,Helensville,2,Auckland Region,76,Auckland
+506901,Awaruku,2,Auckland Region,76,Auckland
+506902,Glamorgan,2,Auckland Region,76,Auckland
+506903,Torbay,2,Auckland Region,76,Auckland
+507000,Waiake,2,Auckland Region,76,Auckland
+507101,Browns Bay,2,Auckland Region,76,Auckland
+507102,Oaktree,2,Auckland Region,76,Auckland
+507200,Rothesay Bay,2,Auckland Region,76,Auckland
+507300,Murrays Bay,2,Auckland Region,76,Auckland
+507400,Mairangi Bay,2,Auckland Region,76,Auckland
+507500,Campbells Bay,2,Auckland Region,76,Auckland
+507710,Castor Bay,2,Auckland Region,76,Auckland
+507720,Crown Hill,2,Auckland Region,76,Auckland
+507800,Lake Pupuke,2,Auckland Region,76,Auckland
+507900,Westlake,2,Auckland Region,76,Auckland
+508010,Takapuna Central,2,Auckland Region,76,Auckland
+508020,Hauraki,2,Auckland Region,76,Auckland
+508110,Seacliffe,2,Auckland Region,76,Auckland
+508120,Bayswater,2,Auckland Region,76,Auckland
+508210,Kaipatiki,2,Auckland Region,76,Auckland
+508220,Windy Ridge,2,Auckland Region,76,Auckland
+508310,Glenfield Central,2,Auckland Region,76,Auckland
+508320,Glenfield North,2,Auckland Region,76,Auckland
+508411,Glendhu,2,Auckland Region,76,Auckland
+508412,Witheford,2,Auckland Region,76,Auckland
+508420,Target Road,2,Auckland Region,76,Auckland
+508510,Forrest Hill,2,Auckland Region,76,Auckland
+508520,Sunnynook,2,Auckland Region,76,Auckland
+508610,Monarch Park,2,Auckland Region,76,Auckland
+508620,Sunnybrae,2,Auckland Region,76,Auckland
+508701,Albany,2,Auckland Region,76,Auckland
+508703,Fairview,2,Auckland Region,76,Auckland
+508704,Northcross,2,Auckland Region,76,Auckland
+508803,Unsworth Heights,2,Auckland Region,76,Auckland
+508804,Pinehill,2,Auckland Region,76,Auckland
+508805,Windsor Park,2,Auckland Region,76,Auckland
+508806,North Harbour West,2,Auckland Region,76,Auckland
+508807,North Harbour East,2,Auckland Region,76,Auckland
+508900,Long Bay,2,Auckland Region,76,Auckland
+509000,Paremoremo East,2,Auckland Region,76,Auckland
+509100,Greenhithe,2,Auckland Region,76,Auckland
+509300,Narrow Neck,2,Auckland Region,76,Auckland
+509400,Mt Victoria,2,Auckland Region,76,Auckland
+509500,Stanley Bay,2,Auckland Region,76,Auckland
+509701,Ocean View,2,Auckland Region,76,Auckland
+509702,Tuff Crater,2,Auckland Region,76,Auckland
+509800,Northcote South,2,Auckland Region,76,Auckland
+510010,Beachhaven North,2,Auckland Region,76,Auckland
+510020,Beachhaven South,2,Auckland Region,76,Auckland
+510210,Birkdale North,2,Auckland Region,76,Auckland
+510220,Birkdale South,2,Auckland Region,76,Auckland
+510401,Kauri Park,2,Auckland Region,76,Auckland
+510402,Chelsea,2,Auckland Region,76,Auckland
+510500,Birkenhead East,2,Auckland Region,76,Auckland
+510700,Henderson North,2,Auckland Region,76,Auckland
+510800,Henderson South,2,Auckland Region,76,Auckland
+511001,Tangutu,2,Auckland Region,76,Auckland
+511002,Woodglen,2,Auckland Region,76,Auckland
+511100,Glen Eden East,2,Auckland Region,76,Auckland
+511301,New Lynn North,2,Auckland Region,76,Auckland
+511302,New Lynn South,2,Auckland Region,76,Auckland
+511303,Lynnmall,2,Auckland Region,76,Auckland
+511401,Fruitvale,2,Auckland Region,76,Auckland
+511402,Rewarewa,2,Auckland Region,76,Auckland
+511601,Glendene North,2,Auckland Region,76,Auckland
+511602,Glendene South,2,Auckland Region,76,Auckland
+511700,Kelston Central,2,Auckland Region,76,Auckland
+511800,Sunnyvale,2,Auckland Region,76,Auckland
+511901,Kaurilands,2,Auckland Region,76,Auckland
+511902,Crum Park,2,Auckland Region,76,Auckland
+512000,Titirangi South,2,Auckland Region,76,Auckland
+512100,Green Bay,2,Auckland Region,76,Auckland
+512201,Matipo,2,Auckland Region,76,Auckland
+512202,Durham Green,2,Auckland Region,76,Auckland
+512300,Te Atatu Central,2,Auckland Region,76,Auckland
+512401,Edmonton,2,Auckland Region,76,Auckland
+512402,Wakeling,2,Auckland Region,76,Auckland
+512500,Mcleod,2,Auckland Region,76,Auckland
+512600,Konini,2,Auckland Region,76,Auckland
+512700,Waima,2,Auckland Region,76,Auckland
+512801,Laingholm,2,Auckland Region,76,Auckland
+512802,Armour Bay,2,Auckland Region,76,Auckland
+512902,Otimai,2,Auckland Region,76,Auckland
+512903,Parrs Park West,2,Auckland Region,76,Auckland
+512904,Parrs Park,2,Auckland Region,76,Auckland
+512905,Oratia West,2,Auckland Region,76,Auckland
+512906,Oratia,2,Auckland Region,76,Auckland
+513011,Henderson West,2,Auckland Region,76,Auckland
+513012,Palm Heights,2,Auckland Region,76,Auckland
+513013,McLaren Park,2,Auckland Region,76,Auckland
+513020,Opanuku,2,Auckland Region,76,Auckland
+513101,Swanson,2,Auckland Region,76,Auckland
+513102,Swanson South,2,Auckland Region,76,Auckland
+513211,Urlich,2,Auckland Region,76,Auckland
+513212,Starling Park,2,Auckland Region,76,Auckland
+513213,Ranui Domain,2,Auckland Region,76,Auckland
+513214,Ranui South,2,Auckland Region,76,Auckland
+513220,Sturges North,2,Auckland Region,76,Auckland
+513301,Kingdale,2,Auckland Region,76,Auckland
+513302,Fairdene,2,Auckland Region,76,Auckland
+513410,Whenuapai West,2,Auckland Region,76,Auckland
+513420,Herald,2,Auckland Region,76,Auckland
+513431,Hobsonville East,2,Auckland Region,76,Auckland
+513432,Hobsonville South,2,Auckland Region,76,Auckland
+513511,Westgate,2,Auckland Region,76,Auckland
+513512,Royal Road West,2,Auckland Region,76,Auckland
+513521,West Harbour,2,Auckland Region,76,Auckland
+513522,Lucken Point,2,Auckland Region,76,Auckland
+513530,Royal Heights,2,Auckland Region,76,Auckland
+513610,Massey West,2,Auckland Region,76,Auckland
+513621,Birdwood West,2,Auckland Region,76,Auckland
+513622,Birdwood East,2,Auckland Region,76,Auckland
+513631,Waimumu North,2,Auckland Region,76,Auckland
+513632,Waimumu South,2,Auckland Region,76,Auckland
+513701,Taupaki,2,Auckland Region,76,Auckland
+513702,Waitakere,2,Auckland Region,76,Auckland
+513800,Karekare,2,Auckland Region,76,Auckland
+514000,Freemans Bay,2,Auckland Region,76,Auckland
+514101,Auckland Harbourside,2,Auckland Region,76,Auckland
+514102,Auckland Central West,2,Auckland Region,76,Auckland
+514103,Auckland Central East,2,Auckland Region,76,Auckland
+514200,Newton,2,Auckland Region,76,Auckland
+514301,Grafton West,2,Auckland Region,76,Auckland
+514302,Grafton East,2,Auckland Region,76,Auckland
+514401,Roberton,2,Auckland Region,76,Auckland
+514402,Glenavon,2,Auckland Region,76,Auckland
+514500,New Windsor,2,Auckland Region,76,Auckland
+514600,Avondale South,2,Auckland Region,76,Auckland
+514700,Blockhouse Bay,2,Auckland Region,76,Auckland
+514801,Rosebank,2,Auckland Region,76,Auckland
+514802,Avondale West,2,Auckland Region,76,Auckland
+514900,Waterview,2,Auckland Region,76,Auckland
+515001,Point Chevalier West,2,Auckland Region,76,Auckland
+515002,Point Chevalier East,2,Auckland Region,76,Auckland
+515003,Point Chevalier South,2,Auckland Region,76,Auckland
+515100,Westmere,2,Auckland Region,76,Auckland
+515201,Herne Bay,2,Auckland Region,76,Auckland
+515202,St Marys,2,Auckland Region,76,Auckland
+515301,Ponsonby West,2,Auckland Region,76,Auckland
+515302,Ponsonby East,2,Auckland Region,76,Auckland
+515410,Grey Lynn West,2,Auckland Region,76,Auckland
+515420,Grey Lynn East,2,Auckland Region,76,Auckland
+515431,Surrey Crescent,2,Auckland Region,76,Auckland
+515432,St Lukes North,2,Auckland Region,76,Auckland
+515500,Arch Hill,2,Auckland Region,76,Auckland
+515600,Eden Terrace,2,Auckland Region,76,Auckland
+515700,Epsom North,2,Auckland Region,76,Auckland
+515801,Epsom Central,2,Auckland Region,76,Auckland
+515802,Epsom South,2,Auckland Region,76,Auckland
+515901,Parnell East,2,Auckland Region,76,Auckland
+515902,Parnell West,2,Auckland Region,76,Auckland
+516001,Mt Hobson,2,Auckland Region,76,Auckland
+516002,Remuera South,2,Auckland Region,76,Auckland
+516003,Abbotts Park,2,Auckland Region,76,Auckland
+516101,Remuera West,2,Auckland Region,76,Auckland
+516102,Waitaramoa,2,Auckland Region,76,Auckland
+516201,Orakei South,2,Auckland Region,76,Auckland
+516202,Waiata,2,Auckland Region,76,Auckland
+516301,Meadowbank North,2,Auckland Region,76,Auckland
+516302,Meadowbank South,2,Auckland Region,76,Auckland
+516400,Orakei North,2,Auckland Region,76,Auckland
+516500,Mission Bay,2,Auckland Region,76,Auckland
+516601,Kohimarama West,2,Auckland Region,76,Auckland
+516602,Kohimarama East,2,Auckland Region,76,Auckland
+516700,St Heliers,2,Auckland Region,76,Auckland
+516800,Glendowie,2,Auckland Region,76,Auckland
+516900,Glen Innes North,2,Auckland Region,76,Auckland
+517001,Glen Innes West,2,Auckland Region,76,Auckland
+517002,Glen Innes East,2,Auckland Region,76,Auckland
+517100,Point England,2,Auckland Region,76,Auckland
+517201,St Johns,2,Auckland Region,76,Auckland
+517202,Stonefields,2,Auckland Region,76,Auckland
+517400,Newmarket,2,Auckland Region,76,Auckland
+517500,Kingsland,2,Auckland Region,76,Auckland
+517600,St Lukes,2,Auckland Region,76,Auckland
+517701,Sandringham North,2,Auckland Region,76,Auckland
+517702,Sandringham West,2,Auckland Region,76,Auckland
+517703,Sandringham East,2,Auckland Region,76,Auckland
+517800,Mt Albert Central,2,Auckland Region,76,Auckland
+517901,Springleigh,2,Auckland Region,76,Auckland
+517902,Owairaka West,2,Auckland Region,76,Auckland
+517903,Owairaka East,2,Auckland Region,76,Auckland
+518101,Mt Eden North,2,Auckland Region,76,Auckland
+518102,Sherbourne,2,Auckland Region,76,Auckland
+518201,Balmoral,2,Auckland Region,76,Auckland
+518202,Mt Eden East,2,Auckland Region,76,Auckland
+518301,Maungawhau,2,Auckland Region,76,Auckland
+518302,Mt Eden South,2,Auckland Region,76,Auckland
+518500,Three Kings,2,Auckland Region,76,Auckland
+518600,Royal Oak,2,Auckland Region,76,Auckland
+518701,Hillsborough West,2,Auckland Region,76,Auckland
+518702,Hillsborough East,2,Auckland Region,76,Auckland
+518801,Walmsley,2,Auckland Region,76,Auckland
+518802,Wesley,2,Auckland Region,76,Auckland
+518803,Akarana,2,Auckland Region,76,Auckland
+518901,Lynfield North,2,Auckland Region,76,Auckland
+518902,Lynfield South,2,Auckland Region,76,Auckland
+519001,Waikowhai West,2,Auckland Region,76,Auckland
+519002,Waikowhai East,2,Auckland Region,76,Auckland
+519200,Mt St John,2,Auckland Region,76,Auckland
+519300,One Tree Hill Central,2,Auckland Region,76,Auckland
+519400,One Tree Hill East,2,Auckland Region,76,Auckland
+519500,Penrose,2,Auckland Region,76,Auckland
+519710,Onehunga North West,2,Auckland Region,76,Auckland
+519720,Onehunga North East,2,Auckland Region,76,Auckland
+519810,Onehunga South West,2,Auckland Region,76,Auckland
+519820,Onehunga South East,2,Auckland Region,76,Auckland
+519900,Oranga,2,Auckland Region,76,Auckland
+520000,Te Papapa,2,Auckland Region,76,Auckland
+520201,Ellerslie North,2,Auckland Region,76,Auckland
+520202,Ellerslie South,2,Auckland Region,76,Auckland
+520301,Mt Wellington Domain,2,Auckland Region,76,Auckland
+520302,Mt Wellington West,2,Auckland Region,76,Auckland
+520303,Mt Wellington North,2,Auckland Region,76,Auckland
+520401,Ferndale,2,Auckland Region,76,Auckland
+520402,Hamlin,2,Auckland Region,76,Auckland
+520500,Mt Wellington South,2,Auckland Region,76,Auckland
+520601,Tamaki,2,Auckland Region,76,Auckland
+520602,Panmure Basin,2,Auckland Region,76,Auckland
+520801,Waiheke Island,2,Auckland Region,76,Auckland
+520803,Bays-Waiheke Island,2,Auckland Region,76,Auckland
+520804,Tidal-Waiheke Island,2,Auckland Region,76,Auckland
+520900,Islands-Motutapu Rangitoto Rakino,2,Auckland Region,76,Auckland
+521000,Great Barrier Island,2,Auckland Region,76,Auckland
+521111,Paerata-Cape Hill,2,Auckland Region,76,Auckland
+521112,Eden Road-Hill Top,2,Auckland Region,76,Auckland
+521114,Redoubt,3,Waikato Region,13,Waikato District
+521115,Opuawhanga,3,Waikato Region,13,Waikato District
+521116,Buckland,2,Auckland Region,76,Auckland
+521117,Buckland South,3,Waikato Region,13,Waikato District
+521121,Patumahoe,2,Auckland Region,76,Auckland
+521122,Kingseat,2,Auckland Region,76,Auckland
+521131,Pokeno,3,Waikato Region,13,Waikato District
+521132,Hunua,2,Auckland Region,76,Auckland
+521134,Paparata,2,Auckland Region,76,Auckland
+521135,Mangatawhiri,3,Waikato Region,13,Waikato District
+521136,Kaiaua,3,Waikato Region,12,Hauraki District
+521151,Awhitu,2,Auckland Region,76,Auckland
+521152,Glenbrook,2,Auckland Region,76,Auckland
+521153,Otaua,3,Waikato Region,13,Waikato District
+521160,Bombay,2,Auckland Region,76,Auckland
+521201,Hingaia,2,Auckland Region,76,Auckland
+521202,Whangapouri Creek,2,Auckland Region,76,Auckland
+521203,Bremner,2,Auckland Region,76,Auckland
+521301,Drury,2,Auckland Region,76,Auckland
+521302,Runciman,2,Auckland Region,76,Auckland
+521501,Mellons Bay,2,Auckland Region,76,Auckland
+521502,Cockle Bay,2,Auckland Region,76,Auckland
+521601,Howick West,2,Auckland Region,76,Auckland
+521602,Howick Central,2,Auckland Region,76,Auckland
+521801,Otahuhu North,2,Auckland Region,76,Auckland
+521802,Fairburn,2,Auckland Region,76,Auckland
+521803,Otahuhu East,2,Auckland Region,76,Auckland
+521901,Otahuhu West,2,Auckland Region,76,Auckland
+521902,Middlemore,2,Auckland Region,76,Auckland
+522100,Papatoetoe West,2,Auckland Region,76,Auckland
+522201,Papatoetoe North,2,Auckland Region,76,Auckland
+522202,Papatoetoe Central,2,Auckland Region,76,Auckland
+522301,Dingwall,2,Auckland Region,76,Auckland
+522302,Papatoetoe East,2,Auckland Region,76,Auckland
+522400,Puhinui North,2,Auckland Region,76,Auckland
+522601,Bucklands and Eastern Beaches,2,Auckland Region,76,Auckland
+522603,Bleakhouse,2,Auckland Region,76,Auckland
+522604,Bucklands Beach South,2,Auckland Region,76,Auckland
+522605,Half Moon Bay Marina,2,Auckland Region,76,Auckland
+522711,Pigeon Mountain North,2,Auckland Region,76,Auckland
+522712,Murvale,2,Auckland Region,76,Auckland
+522721,Pigeon Mountain South,2,Auckland Region,76,Auckland
+522722,Highland Park,2,Auckland Region,76,Auckland
+522723,Elsmore Park,2,Auckland Region,76,Auckland
+522730,Half Moon Bay,2,Auckland Region,76,Auckland
+522810,Pakuranga North,2,Auckland Region,76,Auckland
+522820,Sunnyhills,2,Auckland Region,76,Auckland
+522910,Pakuranga Central,2,Auckland Region,76,Auckland
+522920,Edgewater,2,Auckland Region,76,Auckland
+523000,Pakuranga East,2,Auckland Region,76,Auckland
+523101,Howick South,2,Auckland Region,76,Auckland
+523102,Meadowland,2,Auckland Region,76,Auckland
+523105,Golfland,2,Auckland Region,76,Auckland
+523106,Millhouse,2,Auckland Region,76,Auckland
+523107,Burswood,2,Auckland Region,76,Auckland
+523109,Dannemora,2,Auckland Region,76,Auckland
+523110,Kilkenny,2,Auckland Region,76,Auckland
+523112,Highbrook,2,Auckland Region,76,Auckland
+523113,Greenmount,2,Auckland Region,76,Auckland
+523114,Point View,2,Auckland Region,76,Auckland
+523115,Baverstock Oaks,2,Auckland Region,76,Auckland
+523116,Mission Heights,2,Auckland Region,76,Auckland
+523201,Shelly Park,2,Auckland Region,76,Auckland
+523202,Turanga,2,Auckland Region,76,Auckland
+523300,Beachlands-Maraetai,2,Auckland Region,76,Auckland
+523402,Otara West,2,Auckland Region,76,Auckland
+523403,Wymondley,2,Auckland Region,76,Auckland
+523404,Grange,2,Auckland Region,76,Auckland
+523501,Otara North,2,Auckland Region,76,Auckland
+523502,Otara East,2,Auckland Region,76,Auckland
+523601,Otara South,2,Auckland Region,76,Auckland
+523602,Ferguson,2,Auckland Region,76,Auckland
+523711,Rongomai,2,Auckland Region,76,Auckland
+523712,Donegal Park,2,Auckland Region,76,Auckland
+523713,Ormiston,2,Auckland Region,76,Auckland
+523721,Clover Park,2,Auckland Region,76,Auckland
+523722,Redoubt North,2,Auckland Region,76,Auckland
+523813,Ardmore,2,Auckland Region,76,Auckland
+523814,Totara Heights,2,Auckland Region,76,Auckland
+523816,Randwick Park,2,Auckland Region,76,Auckland
+523817,Hyperion,2,Auckland Region,76,Auckland
+523818,Redoubt East,2,Auckland Region,76,Auckland
+523819,Mill Road,2,Auckland Region,76,Auckland
+523820,Redoubt South,2,Auckland Region,76,Auckland
+523911,Takanini North,2,Auckland Region,76,Auckland
+523912,Takanini South,2,Auckland Region,76,Auckland
+523920,Takanini West,2,Auckland Region,76,Auckland
+524001,Ambury,2,Auckland Region,76,Auckland
+524002,Mangere Bridge,2,Auckland Region,76,Auckland
+524111,Mangere Central,2,Auckland Region,76,Auckland
+524112,Mascot,2,Auckland Region,76,Auckland
+524121,Arahanga,2,Auckland Region,76,Auckland
+524122,Viscount,2,Auckland Region,76,Auckland
+524200,Mangere South,2,Auckland Region,76,Auckland
+524301,Mangere East,2,Auckland Region,76,Auckland
+524302,Aorere,2,Auckland Region,76,Auckland
+524303,Kohuora,2,Auckland Region,76,Auckland
+524402,Mangere Station,2,Auckland Region,76,Auckland
+524403,Favona West,2,Auckland Region,76,Auckland
+524404,Favona North,2,Auckland Region,76,Auckland
+524405,Favona South,2,Auckland Region,76,Auckland
+524510,Harania North,2,Auckland Region,76,Auckland
+524520,Harania West,2,Auckland Region,76,Auckland
+524530,Harania East,2,Auckland Region,76,Auckland
+524602,Wiri,2,Auckland Region,76,Auckland
+524603,Puhinui South,2,Auckland Region,76,Auckland
+524604,Manukau Central,2,Auckland Region,76,Auckland
+524711,Burbank,2,Auckland Region,76,Auckland
+524712,Homai West,2,Auckland Region,76,Auckland
+524713,Rowandale,2,Auckland Region,76,Auckland
+524720,Homai East,2,Auckland Region,76,Auckland
+524811,Weymouth West,2,Auckland Region,76,Auckland
+524812,Weymouth East,2,Auckland Region,76,Auckland
+524821,Clendon North,2,Auckland Region,76,Auckland
+524822,Clendon South,2,Auckland Region,76,Auckland
+524901,Hillpark,2,Auckland Region,76,Auckland
+524902,Manurewa East,2,Auckland Region,76,Auckland
+525001,Manurewa Central,2,Auckland Region,76,Auckland
+525002,Beaumont,2,Auckland Region,76,Auckland
+525101,Leabank,2,Auckland Region,76,Auckland
+525102,Wattle Farm,2,Auckland Region,76,Auckland
+525201,Clevedon,2,Auckland Region,76,Auckland
+525202,Kawakawa-Orere,2,Auckland Region,76,Auckland
+525410,Papakura Central,2,Auckland Region,76,Auckland
+525420,Papakura North,2,Auckland Region,76,Auckland
+525510,Papakura South,2,Auckland Region,76,Auckland
+525520,Opaheke,2,Auckland Region,76,Auckland
+525530,Rosehill,2,Auckland Region,76,Auckland
+525540,Pahurehure,2,Auckland Region,76,Auckland
+525610,Papakura East,2,Auckland Region,76,Auckland
+525620,Massey Park,2,Auckland Region,76,Auckland
+525630,Papakura North East,2,Auckland Region,76,Auckland
+525700,Red Hill,2,Auckland Region,76,Auckland
+525910,Pukekohe North,2,Auckland Region,76,Auckland
+525921,Pukekohe West,2,Auckland Region,76,Auckland
+525922,Bledisloe Park,2,Auckland Region,76,Auckland
+526103,Waiuku West,2,Auckland Region,76,Auckland
+526104,Waiuku East,2,Auckland Region,76,Auckland
+526105,South Waiuku,2,Auckland Region,76,Auckland
+526106,Pukeoware,3,Waikato Region,13,Waikato District
+526200,Tuakau,3,Waikato Region,13,Waikato District
+526400,Rotowaro,3,Waikato Region,13,Waikato District
+526500,Raglan,3,Waikato Region,13,Waikato District
+526601,Waikato Western Hills,3,Waikato Region,13,Waikato District
+526602,Te Uku,3,Waikato Region,13,Waikato District
+526603,Te Pahu,3,Waikato Region,17,Waipa District
+526701,Onewhero,3,Waikato Region,13,Waikato District
+526702,Te Akau,3,Waikato Region,13,Waikato District
+526900,Te Kauwhata,3,Waikato Region,13,Waikato District
+527004,Matangi,3,Waikato Region,13,Waikato District
+527005,Sylvester,3,Waikato Region,16,Hamilton City
+527006,Flagstaff,3,Waikato Region,16,Hamilton City
+527007,Horsham Downs,3,Waikato Region,16,Hamilton City
+527008,Rototuna,3,Waikato Region,16,Hamilton City
+527009,Huntington,3,Waikato Region,16,Hamilton City
+527111,Whitikahu,3,Waikato Region,13,Waikato District
+527112,Taupiri Community,3,Waikato Region,13,Waikato District
+527122,Gordonton,3,Waikato Region,13,Waikato District
+527123,Kainui,3,Waikato Region,13,Waikato District
+527124,Newstead,3,Waikato Region,16,Hamilton City
+527125,Eureka,3,Waikato Region,13,Waikato District
+527131,Tamahere-Tauwhare,3,Waikato Region,13,Waikato District
+527133,Hautapu,3,Waikato Region,17,Waipa District
+527134,Swayne,3,Waikato Region,17,Waipa District
+527210,Waerenga,3,Waikato Region,13,Waikato District
+527221,Maramarua,3,Waikato Region,13,Waikato District
+527222,Meremere,3,Waikato Region,13,Waikato District
+527401,Huntly West,3,Waikato Region,13,Waikato District
+527402,Huntly East,3,Waikato Region,13,Waikato District
+527501,Cambridge North,3,Waikato Region,17,Waipa District
+527502,Cambridge West,3,Waikato Region,17,Waipa District
+527503,Cambridge Central,3,Waikato Region,17,Waipa District
+527504,Leamington West,3,Waikato Region,17,Waipa District
+527505,Leamington East,3,Waikato Region,17,Waipa District
+527600,Ohaupo,3,Waikato Region,17,Waipa District
+527700,Kihikihi,3,Waikato Region,17,Waipa District
+527810,Peacocke,3,Waikato Region,16,Hamilton City
+527820,Temple View,3,Waikato Region,16,Hamilton City
+527912,Te Kowhai,3,Waikato Region,13,Waikato District
+527913,Whatawhata,3,Waikato Region,13,Waikato District
+527914,Ngahinapouri,3,Waikato Region,17,Waipa District
+527915,Lake Cameron,3,Waikato Region,17,Waipa District
+527916,Horotiu,3,Waikato Region,13,Waikato District
+527917,Te Rapa North,3,Waikato Region,16,Hamilton City
+527921,Te Rore,3,Waikato Region,17,Waipa District
+527922,Pirongia,3,Waikato Region,17,Waipa District
+527923,Pokuru,3,Waikato Region,17,Waipa District
+527924,Lake Ngaroto,3,Waikato Region,17,Waipa District
+527925,Tokanui,3,Waikato Region,17,Waipa District
+527931,Pukerimu,3,Waikato Region,17,Waipa District
+527932,Kaipaki,3,Waikato Region,17,Waipa District
+527934,Rotoorangi,3,Waikato Region,17,Waipa District
+527935,Te Rahu,3,Waikato Region,17,Waipa District
+527936,Kihikihi Flat,3,Waikato Region,17,Waipa District
+527937,Allen Road,3,Waikato Region,17,Waipa District
+528000,Rotongata,3,Waikato Region,17,Waipa District
+528200,Ngaruawahia,3,Waikato Region,13,Waikato District
+528310,Bryant,3,Waikato Region,16,Hamilton City
+528320,Pukete,3,Waikato Region,16,Hamilton City
+528402,Pukete West,3,Waikato Region,16,Hamilton City
+528403,Te Rapa,3,Waikato Region,16,Hamilton City
+528405,Burbush,3,Waikato Region,16,Hamilton City
+528406,Rotokauri,3,Waikato Region,16,Hamilton City
+528501,Nawton,3,Waikato Region,16,Hamilton City
+528503,Crawshaw,3,Waikato Region,16,Hamilton City
+528504,Grandview,3,Waikato Region,16,Hamilton City
+528505,Brymer,3,Waikato Region,16,Hamilton City
+528601,Dinsdale North,3,Waikato Region,16,Hamilton City
+528602,Dinsdale South,3,Waikato Region,16,Hamilton City
+528700,Beerescourt,3,Waikato Region,16,Hamilton City
+528800,Maeroa,3,Waikato Region,16,Hamilton City
+528900,Frankton Junction,3,Waikato Region,16,Hamilton City
+529000,Swarbrick,3,Waikato Region,16,Hamilton City
+529100,Hamilton Lake,3,Waikato Region,16,Hamilton City
+529200,Melville,3,Waikato Region,16,Hamilton City
+529300,Glenview,3,Waikato Region,16,Hamilton City
+529401,Queenwood,3,Waikato Region,16,Hamilton City
+529402,Chedworth,3,Waikato Region,16,Hamilton City
+529501,Porritt,3,Waikato Region,16,Hamilton City
+529502,Insoll,3,Waikato Region,16,Hamilton City
+529503,Fairview Downs,3,Waikato Region,16,Hamilton City
+529600,Chartwell,3,Waikato Region,16,Hamilton City
+529700,Hamilton Central,3,Waikato Region,16,Hamilton City
+529800,Clarkin,3,Waikato Region,16,Hamilton City
+529900,Claudelands,3,Waikato Region,16,Hamilton City
+530000,Enderley,3,Waikato Region,16,Hamilton City
+530100,Peachgrove,3,Waikato Region,16,Hamilton City
+530200,Hamilton East,3,Waikato Region,16,Hamilton City
+530300,Naylor,3,Waikato Region,16,Hamilton City
+530400,Bader,3,Waikato Region,16,Hamilton City
+530500,University,3,Waikato Region,16,Hamilton City
+530600,Silverdale,3,Waikato Region,16,Hamilton City
+530700,Hillcrest West,3,Waikato Region,16,Hamilton City
+530800,Riverlea,3,Waikato Region,16,Hamilton City
+531001,Te Awamutu West,3,Waikato Region,17,Waipa District
+531002,Te Awamutu Central,3,Waikato Region,17,Waipa District
+531003,Te Awamutu East,3,Waikato Region,17,Waipa District
+531004,Te Awamutu South,3,Waikato Region,17,Waipa District
+531100,Kawhia Community,3,Waikato Region,18,Otorohanga District
+531200,Otorohanga,3,Waikato Region,18,Otorohanga District
+531301,Otorohanga Rural West,3,Waikato Region,18,Otorohanga District
+531303,Te Kawa,3,Waikato Region,18,Otorohanga District
+531304,Otorohanga Rural East,3,Waikato Region,18,Otorohanga District
+531500,Piopio,3,Waikato Region,20,Waitomo District
+531600,Taharoa,3,Waikato Region,20,Waitomo District
+531710,Mahoenui,3,Waikato Region,20,Waitomo District
+531720,Marokopa,3,Waikato Region,20,Waitomo District
+531731,Waipa Valley,3,Waikato Region,20,Waitomo District
+531732,Tiroa,8,Manawatu-Wanganui Region,20,Waitomo District
+531800,Mokauiti,3,Waikato Region,20,Waitomo District
+532000,Te Kuiti,3,Waikato Region,20,Waitomo District
+532200,Omori,3,Waikato Region,21,Taupo District
+532300,Owhango,8,Manawatu-Wanganui Region,36,Ruapehu District
+532400,Ohura,8,Manawatu-Wanganui Region,36,Ruapehu District
+532501,Ngapuke,8,Manawatu-Wanganui Region,36,Ruapehu District
+532502,Kuratau,3,Waikato Region,21,Taupo District
+532601,Raurimu,8,Manawatu-Wanganui Region,36,Ruapehu District
+532602,National Park,8,Manawatu-Wanganui Region,36,Ruapehu District
+532700,Otangiwai-Heao,8,Manawatu-Wanganui Region,36,Ruapehu District
+532901,Tarrangower,8,Manawatu-Wanganui Region,36,Ruapehu District
+532902,Taumarunui Central,8,Manawatu-Wanganui Region,36,Ruapehu District
+532903,Sunshine-Hospital Hill,8,Manawatu-Wanganui Region,36,Ruapehu District
+532904,Manunui,8,Manawatu-Wanganui Region,36,Ruapehu District
+533000,Whitianga,3,Waikato Region,11,Thames-Coromandel District
+533100,Coromandel,3,Waikato Region,11,Thames-Coromandel District
+533200,Te Rerenga,3,Waikato Region,11,Thames-Coromandel District
+533300,Whangamata,3,Waikato Region,11,Thames-Coromandel District
+533400,Tairua,3,Waikato Region,11,Thames-Coromandel District
+533501,Moanataiari,3,Waikato Region,11,Thames-Coromandel District
+533502,Parawai,3,Waikato Region,11,Thames-Coromandel District
+533602,Pauanui Beach,3,Waikato Region,11,Thames-Coromandel District
+533603,Hikuai,3,Waikato Region,11,Thames-Coromandel District
+533604,Te Puru-Thornton Bay,3,Waikato Region,11,Thames-Coromandel District
+533800,Ngatea,3,Waikato Region,12,Hauraki District
+533901,Hauraki Plains,3,Waikato Region,12,Hauraki District
+533902,Turua,3,Waikato Region,12,Hauraki District
+533903,Kerepehi,3,Waikato Region,12,Hauraki District
+534100,Waihi Beach,4,Bay of Plenty Region,22,Western Bay of Plenty District
+534200,Ohinemuri,3,Waikato Region,12,Hauraki District
+534300,Paeroa,3,Waikato Region,12,Hauraki District
+534400,Waihi,3,Waikato Region,12,Hauraki District
+534500,Tahuroa,3,Waikato Region,15,Matamata-Piako District
+534602,Waitoa,3,Waikato Region,15,Matamata-Piako District
+534603,Springdale,3,Waikato Region,15,Matamata-Piako District
+534604,Waihou-Walton,3,Waikato Region,15,Matamata-Piako District
+534800,Te Aroha,3,Waikato Region,15,Matamata-Piako District
+534901,Morrinsville West,3,Waikato Region,15,Matamata-Piako District
+534902,Morrinsville East,3,Waikato Region,15,Matamata-Piako District
+535000,Waharoa,3,Waikato Region,15,Matamata-Piako District
+535100,Tirau,3,Waikato Region,19,South Waikato District
+535211,Mangakaretu,3,Waikato Region,19,South Waikato District
+535212,Kinleith,3,Waikato Region,19,South Waikato District
+535220,Okauia,3,Waikato Region,15,Matamata-Piako District
+535231,Te Poi,3,Waikato Region,15,Matamata-Piako District
+535232,Tapapa,3,Waikato Region,19,South Waikato District
+535241,Karapiro,3,Waikato Region,17,Waipa District
+535242,Hinuera,3,Waikato Region,15,Matamata-Piako District
+535250,Arapuni,3,Waikato Region,19,South Waikato District
+535261,Lichfield,3,Waikato Region,19,South Waikato District
+535262,Wawa,3,Waikato Region,19,South Waikato District
+535310,Paraonui,3,Waikato Region,19,South Waikato District
+535320,Parkdale,3,Waikato Region,19,South Waikato District
+535330,Matarawa,3,Waikato Region,19,South Waikato District
+535340,Stanley Park,3,Waikato Region,19,South Waikato District
+535350,Tokoroa Central,3,Waikato Region,19,South Waikato District
+535360,Aotea,3,Waikato Region,19,South Waikato District
+535370,Strathmore,3,Waikato Region,19,South Waikato District
+535380,Amisfield,3,Waikato Region,19,South Waikato District
+535501,Matamata North,3,Waikato Region,15,Matamata-Piako District
+535502,Matamata South,3,Waikato Region,15,Matamata-Piako District
+535600,Putaruru,3,Waikato Region,19,South Waikato District
+535700,Athenree,4,Bay of Plenty Region,22,Western Bay of Plenty District
+535800,Katikati Community,4,Bay of Plenty Region,22,Western Bay of Plenty District
+535900,Maketu Community,4,Bay of Plenty Region,22,Western Bay of Plenty District
+536000,Omokoroa,4,Bay of Plenty Region,22,Western Bay of Plenty District
+536201,Papamoa Beach East,4,Bay of Plenty Region,23,Tauranga City
+536202,Palm Springs,4,Bay of Plenty Region,23,Tauranga City
+536203,Doncaster,4,Bay of Plenty Region,23,Tauranga City
+536400,Island View-Pios Beach,4,Bay of Plenty Region,22,Western Bay of Plenty District
+536503,Te Puna,4,Bay of Plenty Region,22,Western Bay of Plenty District
+536505,Matapihi,4,Bay of Plenty Region,23,Tauranga City
+536506,Inlet-Tauranga Harbour Omokoroa,4,Bay of Plenty Region,22,Western Bay of Plenty District
+536508,Inlet-Tauranga Harbour,4,Bay of Plenty Region,23,Tauranga City
+536509,Waikareao Estuary,4,Bay of Plenty Region,23,Tauranga City
+536510,Motuopae Island,4,Bay of Plenty Region,23,Tauranga City
+536512,Kairua,4,Bay of Plenty Region,23,Tauranga City
+536513,Bethlehem East,4,Bay of Plenty Region,23,Tauranga City
+536514,Bethlehem,4,Bay of Plenty Region,23,Tauranga City
+536515,Pacific View,4,Bay of Plenty Region,23,Tauranga City
+536516,Palm Beach,4,Bay of Plenty Region,23,Tauranga City
+536517,Gravatt,4,Bay of Plenty Region,23,Tauranga City
+536611,Matakana Island,4,Bay of Plenty Region,22,Western Bay of Plenty District
+536613,Inlet-Tauranga Harbour North,4,Bay of Plenty Region,22,Western Bay of Plenty District
+536614,Tahawai,4,Bay of Plenty Region,22,Western Bay of Plenty District
+536615,Aongatete,4,Bay of Plenty Region,22,Western Bay of Plenty District
+536620,Minden,4,Bay of Plenty Region,22,Western Bay of Plenty District
+536630,Kaimai,4,Bay of Plenty Region,22,Western Bay of Plenty District
+536641,Ohauiti-Ngapeke,4,Bay of Plenty Region,22,Western Bay of Plenty District
+536642,Upper Papamoa,4,Bay of Plenty Region,22,Western Bay of Plenty District
+536651,Paengaroa,4,Bay of Plenty Region,22,Western Bay of Plenty District
+536653,Rangiuru,4,Bay of Plenty Region,22,Western Bay of Plenty District
+536654,Pongakawa,4,Bay of Plenty Region,22,Western Bay of Plenty District
+536810,Mt Maunganui North,4,Bay of Plenty Region,23,Tauranga City
+536821,Omanu,4,Bay of Plenty Region,23,Tauranga City
+536822,Tauranga City-Marinas,4,Bay of Plenty Region,23,Tauranga City
+536831,Arataki,4,Bay of Plenty Region,23,Tauranga City
+536832,Te Maunga,4,Bay of Plenty Region,23,Tauranga City
+537000,Matua,4,Bay of Plenty Region,23,Tauranga City
+537100,Bellevue,4,Bay of Plenty Region,23,Tauranga City
+537201,Otumoetai North,4,Bay of Plenty Region,23,Tauranga City
+537202,Otumoetai South,4,Bay of Plenty Region,23,Tauranga City
+537301,Brookfield,4,Bay of Plenty Region,23,Tauranga City
+537302,Te Reti,4,Bay of Plenty Region,23,Tauranga City
+537400,Judea,4,Bay of Plenty Region,23,Tauranga City
+537500,Gate Pa,4,Bay of Plenty Region,23,Tauranga City
+537601,Greerton,4,Bay of Plenty Region,23,Tauranga City
+537602,Pyes Pa,4,Bay of Plenty Region,23,Tauranga City
+537700,Yatton Park,4,Bay of Plenty Region,23,Tauranga City
+537800,Poike,4,Bay of Plenty Region,23,Tauranga City
+537900,Hairini,4,Bay of Plenty Region,23,Tauranga City
+538000,Maungatapu,4,Bay of Plenty Region,23,Tauranga City
+538101,Tauranga Hospital,4,Bay of Plenty Region,23,Tauranga City
+538102,Tauranga South,4,Bay of Plenty Region,23,Tauranga City
+538201,Tauranga Central,4,Bay of Plenty Region,23,Tauranga City
+538202,Sulphur Point,4,Bay of Plenty Region,23,Tauranga City
+538301,Kaitemako,4,Bay of Plenty Region,23,Tauranga City
+538302,Welcome Bay West,4,Bay of Plenty Region,23,Tauranga City
+538303,Welcome Bay East,4,Bay of Plenty Region,23,Tauranga City
+538501,Te Puke West,4,Bay of Plenty Region,22,Western Bay of Plenty District
+538502,Te Puke East,4,Bay of Plenty Region,22,Western Bay of Plenty District
+538601,Ngongotaha North,4,Bay of Plenty Region,24,Rotorua District
+538602,Ngongotaha South,4,Bay of Plenty Region,24,Rotorua District
+538721,Poets Corner,4,Bay of Plenty Region,24,Rotorua District
+538722,Ngapuna,4,Bay of Plenty Region,24,Rotorua District
+538731,Owhata South,4,Bay of Plenty Region,24,Rotorua District
+538732,Lynmore,4,Bay of Plenty Region,24,Rotorua District
+538741,Owhata West,4,Bay of Plenty Region,24,Rotorua District
+538742,Owhata East,4,Bay of Plenty Region,24,Rotorua District
+538811,Hamurana,4,Bay of Plenty Region,24,Rotorua District
+538812,Inland Water-Lake Rotorua,4,Bay of Plenty Region,24,Rotorua District
+538820,Tikitere,4,Bay of Plenty Region,24,Rotorua District
+538831,Kaingaroa Forest,4,Bay of Plenty Region,24,Rotorua District
+538832,Tarawera,4,Bay of Plenty Region,24,Rotorua District
+538841,Golden Springs,3,Waikato Region,24,Rotorua District
+538842,Reporoa,3,Waikato Region,24,Rotorua District
+538850,Ngakuru,3,Waikato Region,24,Rotorua District
+538861,Arahiwi,3,Waikato Region,24,Rotorua District
+538863,Waiwhero,4,Bay of Plenty Region,24,Rotorua District
+538864,Mamaku,4,Bay of Plenty Region,24,Rotorua District
+539000,Selwyn Heights,4,Bay of Plenty Region,24,Rotorua District
+539100,Western Heights,4,Bay of Plenty Region,24,Rotorua District
+539200,Fairy Springs,4,Bay of Plenty Region,24,Rotorua District
+539310,Pukehangi North,4,Bay of Plenty Region,24,Rotorua District
+539320,Pukehangi South,4,Bay of Plenty Region,24,Rotorua District
+539400,Mangakakahi,4,Bay of Plenty Region,24,Rotorua District
+539500,Sunnybrook,4,Bay of Plenty Region,24,Rotorua District
+539600,Fordlands,4,Bay of Plenty Region,24,Rotorua District
+539700,Utuhina,4,Bay of Plenty Region,24,Rotorua District
+539800,Pomare,4,Bay of Plenty Region,24,Rotorua District
+539900,Hillcrest,4,Bay of Plenty Region,24,Rotorua District
+540000,Springfield,4,Bay of Plenty Region,24,Rotorua District
+540100,Kawaha Point,4,Bay of Plenty Region,24,Rotorua District
+540200,Koutu,4,Bay of Plenty Region,24,Rotorua District
+540300,Ohinemutu,4,Bay of Plenty Region,24,Rotorua District
+540410,Kuirau,4,Bay of Plenty Region,24,Rotorua District
+540420,Victoria,4,Bay of Plenty Region,24,Rotorua District
+540510,Glenholme East,4,Bay of Plenty Region,24,Rotorua District
+540520,Glenholme West,4,Bay of Plenty Region,24,Rotorua District
+540600,Fenton,4,Bay of Plenty Region,24,Rotorua District
+540700,Whaka,4,Bay of Plenty Region,24,Rotorua District
+540900,Mangakino,3,Waikato Region,21,Taupo District
+541000,Turangi,3,Waikato Region,21,Taupo District
+541311,Acacia Bay,3,Waikato Region,21,Taupo District
+541312,Wairakei-Aratiatia,3,Waikato Region,21,Taupo District
+541313,Maunganamu,3,Waikato Region,21,Taupo District
+541315,Taupo East,3,Waikato Region,21,Taupo District
+541316,Wharewaka,3,Waikato Region,21,Taupo District
+541317,Rangatira Park,3,Waikato Region,21,Taupo District
+541318,Rangatira,3,Waikato Region,21,Taupo District
+541319,Lakewood,3,Waikato Region,21,Taupo District
+541320,Marotiri,3,Waikato Region,21,Taupo District
+541333,Kinloch,3,Waikato Region,21,Taupo District
+541334,Tatua,3,Waikato Region,21,Taupo District
+541335,Oruanui,3,Waikato Region,21,Taupo District
+541342,Rangitaiki,4,Bay of Plenty Region,21,Taupo District
+541344,Broadlands,3,Waikato Region,21,Taupo District
+541345,Waitahanui,3,Waikato Region,21,Taupo District
+541346,Tongariro,3,Waikato Region,21,Taupo District
+541347,Motuoapa,3,Waikato Region,21,Taupo District
+541348,Tokaanu,3,Waikato Region,21,Taupo District
+541501,Rangipo,3,Waikato Region,21,Taupo District
+541502,Te More,8,Manawatu-Wanganui Region,21,Taupo District
+541503,Taharua,6,Hawke's Bay Region,21,Taupo District
+541710,Nukuhau,3,Waikato Region,21,Taupo District
+541720,Taupo Central,3,Waikato Region,21,Taupo District
+541730,Tauhara,3,Waikato Region,21,Taupo District
+541740,Hilltop,3,Waikato Region,21,Taupo District
+541750,Waipahihi,3,Waikato Region,21,Taupo District
+541760,Richmond Heights,3,Waikato Region,21,Taupo District
+541900,Ohope,4,Bay of Plenty Region,25,Whakatane District
+542000,Matata,4,Bay of Plenty Region,25,Whakatane District
+542100,Taneatua,4,Bay of Plenty Region,25,Whakatane District
+542200,Edgecumbe,4,Bay of Plenty Region,25,Whakatane District
+542300,Te Teko,4,Bay of Plenty Region,25,Whakatane District
+542410,Whakatane North,4,Bay of Plenty Region,25,Whakatane District
+542421,Coastlands,4,Bay of Plenty Region,25,Whakatane District
+542422,Whakatane West,4,Bay of Plenty Region,25,Whakatane District
+542430,Trident,4,Bay of Plenty Region,25,Whakatane District
+542440,Allandale-Mokorua,4,Bay of Plenty Region,25,Whakatane District
+542511,Orini,4,Bay of Plenty Region,25,Whakatane District
+542513,Inlet-Ohiwa Harbour West,4,Bay of Plenty Region,25,Whakatane District
+542514,Maraetotara,4,Bay of Plenty Region,25,Whakatane District
+542520,Poroporo,4,Bay of Plenty Region,25,Whakatane District
+542530,Otakiri,4,Bay of Plenty Region,25,Whakatane District
+542540,Rotoma,4,Bay of Plenty Region,25,Whakatane District
+542550,Matahina-Minginui,4,Bay of Plenty Region,25,Whakatane District
+542561,Waimana,4,Bay of Plenty Region,25,Whakatane District
+542562,Urewera,4,Bay of Plenty Region,25,Whakatane District
+542600,Kawerau,4,Bay of Plenty Region,26,Kawerau District
+542700,Murupara,4,Bay of Plenty Region,25,Whakatane District
+542800,Opotiki,4,Bay of Plenty Region,27,Opotiki District
+542901,Te Kaha,4,Bay of Plenty Region,27,Opotiki District
+542903,Cape Runaway,4,Bay of Plenty Region,27,Opotiki District
+542904,Oponae,4,Bay of Plenty Region,27,Opotiki District
+542905,Inlet-Ohiwa Harbour East,4,Bay of Plenty Region,27,Opotiki District
+542906,Waiotahi,4,Bay of Plenty Region,27,Opotiki District
+543301,East Cape,5,Gisborne Region,28,Gisborne District
+543302,Ruatoria,5,Gisborne Region,28,Gisborne District
+543303,Tokomaru Bay,5,Gisborne Region,28,Gisborne District
+543601,Tarndale-Rakauroa,5,Gisborne Region,28,Gisborne District
+543602,Te Karaka,5,Gisborne Region,28,Gisborne District
+543800,Patutahi,5,Gisborne Region,28,Gisborne District
+543901,Makaraka,5,Gisborne Region,28,Gisborne District
+543902,Matokitoki,5,Gisborne Region,28,Gisborne District
+543903,Wainui,5,Gisborne Region,28,Gisborne District
+544001,Wharekaka,5,Gisborne Region,28,Gisborne District
+544002,Tiniroto,5,Gisborne Region,28,Gisborne District
+544003,Manutuke,5,Gisborne Region,28,Gisborne District
+544004,Tolaga Bay,5,Gisborne Region,28,Gisborne District
+544200,Mangapapa,5,Gisborne Region,28,Gisborne District
+544300,Te Hapara,5,Gisborne Region,28,Gisborne District
+544400,Gisborne Airport,5,Gisborne Region,28,Gisborne District
+544500,Whataupoko,5,Gisborne Region,28,Gisborne District
+544600,Gisborne Central,5,Gisborne Region,28,Gisborne District
+544701,Kaiti North,5,Gisborne Region,28,Gisborne District
+544702,Outer Kaiti,5,Gisborne Region,28,Gisborne District
+544801,Kaiti South,5,Gisborne Region,28,Gisborne District
+544802,Tamarau,5,Gisborne Region,28,Gisborne District
+544900,Riverdale,5,Gisborne Region,28,Gisborne District
+545201,Tuai,6,Hawke's Bay Region,29,Wairoa District
+545202,Frasertown,6,Hawke's Bay Region,29,Wairoa District
+545204,Ruakituri-Morere,6,Hawke's Bay Region,29,Wairoa District
+545205,Maungataniwha,6,Hawke's Bay Region,29,Wairoa District
+545206,Inland Water-Lake Waikaremoana,6,Hawke's Bay Region,29,Wairoa District
+545301,Raupunga,6,Hawke's Bay Region,29,Wairoa District
+545302,Whakaki,6,Hawke's Bay Region,29,Wairoa District
+545303,Nuhaka,6,Hawke's Bay Region,29,Wairoa District
+545304,Mahia,6,Hawke's Bay Region,29,Wairoa District
+545500,Wairoa,6,Hawke's Bay Region,29,Wairoa District
+545611,Bay View,6,Hawke's Bay Region,31,Napier City
+545621,Poraiti,6,Hawke's Bay Region,31,Napier City
+545631,Meeanee,6,Hawke's Bay Region,31,Napier City
+545632,Awatoto,6,Hawke's Bay Region,31,Napier City
+545710,Twyford,6,Hawke's Bay Region,30,Hastings District
+545721,Karamu,6,Hawke's Bay Region,30,Hastings District
+545722,Whakatu,6,Hawke's Bay Region,30,Hastings District
+545730,Clive,6,Hawke's Bay Region,30,Hastings District
+545740,Haumoana,6,Hawke's Bay Region,30,Hastings District
+545750,Brookvale,6,Hawke's Bay Region,30,Hastings District
+545761,Irongate,6,Hawke's Bay Region,30,Hastings District
+545762,Longlands South,6,Hawke's Bay Region,30,Hastings District
+545811,Tangoio,6,Hawke's Bay Region,30,Hastings District
+545812,Eskdale,6,Hawke's Bay Region,30,Hastings District
+545821,Sherenden-Puketapu,6,Hawke's Bay Region,30,Hastings District
+545822,Omahu,6,Hawke's Bay Region,30,Hastings District
+545831,Waiohiki,6,Hawke's Bay Region,30,Hastings District
+545832,Pakowhai,6,Hawke's Bay Region,30,Hastings District
+545841,Maraekakaho,6,Hawke's Bay Region,30,Hastings District
+545842,Bridge Pa,6,Hawke's Bay Region,30,Hastings District
+545851,Poukawa,6,Hawke's Bay Region,30,Hastings District
+545852,Pakipaki,6,Hawke's Bay Region,30,Hastings District
+545860,Waimarama,6,Hawke's Bay Region,30,Hastings District
+545911,Tutira,6,Hawke's Bay Region,30,Hastings District
+545912,Puketitiri,6,Hawke's Bay Region,30,Hastings District
+545913,Whanawhana,6,Hawke's Bay Region,30,Hastings District
+546100,Westshore,6,Hawke's Bay Region,31,Napier City
+546200,Ahuriri,6,Hawke's Bay Region,31,Napier City
+546300,Onekawa Central,6,Hawke's Bay Region,31,Napier City
+546400,Onekawa West,6,Hawke's Bay Region,31,Napier City
+546500,Onekawa South,6,Hawke's Bay Region,31,Napier City
+546600,Marewa,6,Hawke's Bay Region,31,Napier City
+546700,Maraenui,6,Hawke's Bay Region,31,Napier City
+546801,Hospital Hill,6,Hawke's Bay Region,31,Napier City
+546802,Bluff Hill,6,Hawke's Bay Region,31,Napier City
+546901,Nelson Park,6,Hawke's Bay Region,31,Napier City
+546902,Mclean Park,6,Hawke's Bay Region,31,Napier City
+547001,Tamatea North,6,Hawke's Bay Region,31,Napier City
+547002,Tamatea South,6,Hawke's Bay Region,31,Napier City
+547100,Greenmeadows,6,Hawke's Bay Region,31,Napier City
+547200,Taradale North,6,Hawke's Bay Region,31,Napier City
+547300,Taradale South,6,Hawke's Bay Region,31,Napier City
+547400,Pirimai,6,Hawke's Bay Region,31,Napier City
+547600,Mahora,6,Hawke's Bay Region,30,Hastings District
+547700,St Leonards,6,Hawke's Bay Region,30,Hastings District
+547800,Frimley,6,Hawke's Bay Region,30,Hastings District
+547900,Raureka,6,Hawke's Bay Region,30,Hastings District
+548000,Mayfair,6,Hawke's Bay Region,30,Hastings District
+548100,Parkvale,6,Hawke's Bay Region,30,Hastings District
+548200,Hastings Central,6,Hawke's Bay Region,30,Hastings District
+548300,Akina,6,Hawke's Bay Region,30,Hastings District
+548400,Woolwich,6,Hawke's Bay Region,30,Hastings District
+548500,Camberley,6,Hawke's Bay Region,30,Hastings District
+548611,Kingsley-Chatham,6,Hawke's Bay Region,30,Hastings District
+548612,Lochain,6,Hawke's Bay Region,30,Hastings District
+548620,Flaxmere East,6,Hawke's Bay Region,30,Hastings District
+548810,Anderson Park,6,Hawke's Bay Region,30,Hastings District
+548821,Iona,6,Hawke's Bay Region,30,Hastings District
+548822,Havelock Hills,6,Hawke's Bay Region,30,Hastings District
+548831,Te Mata,6,Hawke's Bay Region,30,Hastings District
+548832,Havelock North Central,6,Hawke's Bay Region,30,Hastings District
+548833,Te Mata Hills,6,Hawke's Bay Region,30,Hastings District
+549000,Takapau,6,Hawke's Bay Region,32,Central Hawke's Bay District
+549100,Waipawa,6,Hawke's Bay Region,32,Central Hawke's Bay District
+549200,Tikokino,6,Hawke's Bay Region,32,Central Hawke's Bay District
+549400,Otane,6,Hawke's Bay Region,32,Central Hawke's Bay District
+549500,Waipukurau,6,Hawke's Bay Region,32,Central Hawke's Bay District
+549601,Porangahau,6,Hawke's Bay Region,32,Central Hawke's Bay District
+549602,Elsthorpe-Flemington,6,Hawke's Bay Region,32,Central Hawke's Bay District
+549800,Norsewood-Herbertville,8,Manawatu-Wanganui Region,41,Tararua District
+549901,Owahanga,8,Manawatu-Wanganui Region,41,Tararua District
+549902,Mara,9,Wellington Region,41,Tararua District
+550101,Dannevirke West,8,Manawatu-Wanganui Region,41,Tararua District
+550102,Dannevirke East,8,Manawatu-Wanganui Region,41,Tararua District
+550200,Papatawa,8,Manawatu-Wanganui Region,41,Tararua District
+550500,Woodville,8,Manawatu-Wanganui Region,41,Tararua District
+550600,Urenui,7,Taranaki Region,33,New Plymouth District
+550700,Okoki-Okau,7,Taranaki Region,33,New Plymouth District
+550800,Oakura,7,Taranaki Region,33,New Plymouth District
+550901,Bell Block,7,Taranaki Region,33,New Plymouth District
+550902,Paraite,7,Taranaki Region,33,New Plymouth District
+551012,Glen Avon,7,Taranaki Region,33,New Plymouth District
+551013,Bowden,7,Taranaki Region,33,New Plymouth District
+551014,Mangaoraka,7,Taranaki Region,33,New Plymouth District
+551021,Carrington,7,Taranaki Region,33,New Plymouth District
+551022,Highlands Park,7,Taranaki Region,33,New Plymouth District
+551023,Fernleigh,7,Taranaki Region,33,New Plymouth District
+551024,Barrett,7,Taranaki Region,33,New Plymouth District
+551030,Omata,7,Taranaki Region,33,New Plymouth District
+551111,Lepperton,7,Taranaki Region,33,New Plymouth District
+551112,Kaitake,7,Taranaki Region,33,New Plymouth District
+551120,Okato,7,Taranaki Region,33,New Plymouth District
+551301,Waitara West,7,Taranaki Region,33,New Plymouth District
+551302,Waitara East,7,Taranaki Region,33,New Plymouth District
+551400,Moturoa,7,Taranaki Region,33,New Plymouth District
+551501,Lynmouth,7,Taranaki Region,33,New Plymouth District
+551502,Spotswood,7,Taranaki Region,33,New Plymouth District
+551503,Marfell,7,Taranaki Region,33,New Plymouth District
+551600,Upper Westown,7,Taranaki Region,33,New Plymouth District
+551700,Westown,7,Taranaki Region,33,New Plymouth District
+551800,New Plymouth Central,7,Taranaki Region,33,New Plymouth District
+551900,Kawaroa,7,Taranaki Region,33,New Plymouth District
+552001,Mount Bryan,7,Taranaki Region,33,New Plymouth District
+552002,Marsland Hill,7,Taranaki Region,33,New Plymouth District
+552100,Fitzroy,7,Taranaki Region,33,New Plymouth District
+552200,Welbourn,7,Taranaki Region,33,New Plymouth District
+552300,Merrilands,7,Taranaki Region,33,New Plymouth District
+552400,Frankleigh,7,Taranaki Region,33,New Plymouth District
+552500,Struan Park,7,Taranaki Region,33,New Plymouth District
+552701,Egmont Village,7,Taranaki Region,33,New Plymouth District
+552702,Kaimata,7,Taranaki Region,33,New Plymouth District
+552800,Inglewood,7,Taranaki Region,33,New Plymouth District
+552900,Midhirst,7,Taranaki Region,34,Stratford District
+553001,Whangamomona,8,Manawatu-Wanganui Region,34,Stratford District
+553002,Douglas,7,Taranaki Region,34,Stratford District
+553003,Toko,7,Taranaki Region,34,Stratford District
+553004,Pembroke,7,Taranaki Region,34,Stratford District
+553101,Stratford West,7,Taranaki Region,34,Stratford District
+553102,Stratford East,7,Taranaki Region,34,Stratford District
+553200,Opunake,7,Taranaki Region,35,South Taranaki District
+553301,Rahotu,7,Taranaki Region,35,South Taranaki District
+553302,Kahui,7,Taranaki Region,35,South Taranaki District
+553400,Kaponga,7,Taranaki Region,35,South Taranaki District
+553500,Mangatoki-Moeroa,7,Taranaki Region,35,South Taranaki District
+553601,Eltham,7,Taranaki Region,35,South Taranaki District
+553700,Kapuni,7,Taranaki Region,35,South Taranaki District
+553800,Manaia,7,Taranaki Region,35,South Taranaki District
+553900,Normanby,7,Taranaki Region,35,South Taranaki District
+554010,Hawera North,7,Taranaki Region,35,South Taranaki District
+554020,Hawera South,7,Taranaki Region,35,South Taranaki District
+554111,Ohawe Beach,7,Taranaki Region,35,South Taranaki District
+554113,Tawhiti,7,Taranaki Region,35,South Taranaki District
+554114,Waingongoro,7,Taranaki Region,35,South Taranaki District
+554115,Hawera West,7,Taranaki Region,35,South Taranaki District
+554120,Ohangai,7,Taranaki Region,35,South Taranaki District
+554130,Okaiawa,7,Taranaki Region,35,South Taranaki District
+554300,Waitotara,7,Taranaki Region,35,South Taranaki District
+554400,Whenuakura,7,Taranaki Region,35,South Taranaki District
+554500,Makakaho,7,Taranaki Region,35,South Taranaki District
+554700,Patea,7,Taranaki Region,35,South Taranaki District
+554800,Waverley,7,Taranaki Region,35,South Taranaki District
+554900,Tangiwai,8,Manawatu-Wanganui Region,36,Ruapehu District
+555000,Ohakune,8,Manawatu-Wanganui Region,36,Ruapehu District
+555100,Raetihi,8,Manawatu-Wanganui Region,36,Ruapehu District
+555200,Otamatea,8,Manawatu-Wanganui Region,37,Wanganui District
+555300,Blueskin,8,Manawatu-Wanganui Region,37,Wanganui District
+555400,Maxwell,8,Manawatu-Wanganui Region,37,Wanganui District
+555700,Castlecliff North,8,Manawatu-Wanganui Region,37,Wanganui District
+555800,Castlecliff South,8,Manawatu-Wanganui Region,37,Wanganui District
+555900,Mosston,8,Manawatu-Wanganui Region,37,Wanganui District
+556000,Balgownie,8,Manawatu-Wanganui Region,37,Wanganui District
+556100,Tawhero,8,Manawatu-Wanganui Region,37,Wanganui District
+556200,Gonville South,8,Manawatu-Wanganui Region,37,Wanganui District
+556300,Gonville East,8,Manawatu-Wanganui Region,37,Wanganui District
+556400,Gonville West,8,Manawatu-Wanganui Region,37,Wanganui District
+556500,Springvale West,8,Manawatu-Wanganui Region,37,Wanganui District
+556600,Springvale East,8,Manawatu-Wanganui Region,37,Wanganui District
+556700,Wanganui Collegiate,8,Manawatu-Wanganui Region,37,Wanganui District
+556800,Laird Park,8,Manawatu-Wanganui Region,37,Wanganui District
+556900,Wanganui Central,8,Manawatu-Wanganui Region,37,Wanganui District
+557000,Spriggens Park,8,Manawatu-Wanganui Region,37,Wanganui District
+557100,Cooks Gardens,8,Manawatu-Wanganui Region,37,Wanganui District
+557200,St Johns Hill,8,Manawatu-Wanganui Region,37,Wanganui District
+557300,Lower Aramoho,8,Manawatu-Wanganui Region,37,Wanganui District
+557400,Upper Aramoho,8,Manawatu-Wanganui Region,37,Wanganui District
+557500,Williams Domain,8,Manawatu-Wanganui Region,37,Wanganui District
+557600,Wembley Park,8,Manawatu-Wanganui Region,37,Wanganui District
+557700,Kowhai Park,8,Manawatu-Wanganui Region,37,Wanganui District
+557800,Bastia Hill,8,Manawatu-Wanganui Region,37,Wanganui District
+557900,Durie Hill,8,Manawatu-Wanganui Region,37,Wanganui District
+558100,Putiki,8,Manawatu-Wanganui Region,37,Wanganui District
+558200,Marybank-Gordon Park,8,Manawatu-Wanganui Region,37,Wanganui District
+558300,Fordell-Kakatahi,8,Manawatu-Wanganui Region,37,Wanganui District
+558500,Waiouru,8,Manawatu-Wanganui Region,36,Ruapehu District
+558600,Mangaweka,8,Manawatu-Wanganui Region,38,Rangitikei District
+558700,Hunterville,8,Manawatu-Wanganui Region,38,Rangitikei District
+558800,Ratana Community,8,Manawatu-Wanganui Region,38,Rangitikei District
+558900,Bulls,8,Manawatu-Wanganui Region,38,Rangitikei District
+559000,Ngamatea,6,Hawke's Bay Region,38,Rangitikei District
+559210,Moawhango,8,Manawatu-Wanganui Region,38,Rangitikei District
+559220,Pohonui-Porewa,8,Manawatu-Wanganui Region,38,Rangitikei District
+559230,Lake Alice,8,Manawatu-Wanganui Region,38,Rangitikei District
+559240,Koitiata,8,Manawatu-Wanganui Region,38,Rangitikei District
+559400,Taihape,8,Manawatu-Wanganui Region,38,Rangitikei District
+559500,Marton,8,Manawatu-Wanganui Region,38,Rangitikei District
+559700,Kiwitea,8,Manawatu-Wanganui Region,39,Manawatu District
+560000,Pohangina,8,Manawatu-Wanganui Region,39,Manawatu District
+560200,Ashhurst,8,Manawatu-Wanganui Region,40,Palmerston North City
+560301,Stoney Creek,8,Manawatu-Wanganui Region,40,Palmerston North City
+560302,Whakarongo,8,Manawatu-Wanganui Region,40,Palmerston North City
+560411,Oroua Bridge,8,Manawatu-Wanganui Region,39,Manawatu District
+560412,Maewa,8,Manawatu-Wanganui Region,39,Manawatu District
+560421,Halcombe,8,Manawatu-Wanganui Region,39,Manawatu District
+560422,Tokorangi-Hiwinui,8,Manawatu-Wanganui Region,39,Manawatu District
+560710,Feilding North,8,Manawatu-Wanganui Region,39,Manawatu District
+560720,Feilding West,8,Manawatu-Wanganui Region,39,Manawatu District
+560730,Feilding Central,8,Manawatu-Wanganui Region,39,Manawatu District
+560740,Feilding East,8,Manawatu-Wanganui Region,39,Manawatu District
+560900,Sanson,8,Manawatu-Wanganui Region,39,Manawatu District
+561000,Rongotea,8,Manawatu-Wanganui Region,39,Manawatu District
+561100,Tangimoana,8,Manawatu-Wanganui Region,39,Manawatu District
+561200,Himatangi Beach,8,Manawatu-Wanganui Region,39,Manawatu District
+561300,Foxton Beach,8,Manawatu-Wanganui Region,42,Horowhenua District
+561410,Rakiraki,8,Manawatu-Wanganui Region,39,Manawatu District
+561421,Ohakea,8,Manawatu-Wanganui Region,39,Manawatu District
+561422,Oroua Downs-Waitohi,8,Manawatu-Wanganui Region,39,Manawatu District
+561500,Moutoa,8,Manawatu-Wanganui Region,42,Horowhenua District
+561700,Foxton,8,Manawatu-Wanganui Region,42,Horowhenua District
+561811,Kairanga,8,Manawatu-Wanganui Region,40,Palmerston North City
+561812,Longburn,8,Manawatu-Wanganui Region,40,Palmerston North City
+561813,Massey University,8,Manawatu-Wanganui Region,40,Palmerston North City
+561820,Linton Military Camp,8,Manawatu-Wanganui Region,40,Palmerston North City
+561901,Kauwhata,8,Manawatu-Wanganui Region,39,Manawatu District
+561902,Turitea,8,Manawatu-Wanganui Region,40,Palmerston North City
+562100,Milson,8,Manawatu-Wanganui Region,40,Palmerston North City
+562200,Kelvin Grove,8,Manawatu-Wanganui Region,40,Palmerston North City
+562310,Takaro,8,Manawatu-Wanganui Region,40,Palmerston North City
+562320,Cloverlea,8,Manawatu-Wanganui Region,40,Palmerston North City
+562401,Palmerston North Hospital,8,Manawatu-Wanganui Region,40,Palmerston North City
+562402,Papaeoia,8,Manawatu-Wanganui Region,40,Palmerston North City
+562500,Roslyn,8,Manawatu-Wanganui Region,40,Palmerston North City
+562600,Terrace End,8,Manawatu-Wanganui Region,40,Palmerston North City
+562710,Highbury,8,Manawatu-Wanganui Region,40,Palmerston North City
+562720,Westbrook,8,Manawatu-Wanganui Region,40,Palmerston North City
+562800,Palmerston North Central,8,Manawatu-Wanganui Region,40,Palmerston North City
+562910,Awapuni North,8,Manawatu-Wanganui Region,40,Palmerston North City
+562921,Awapuni West,8,Manawatu-Wanganui Region,40,Palmerston North City
+562922,Awapuni South,8,Manawatu-Wanganui Region,40,Palmerston North City
+563000,West End,8,Manawatu-Wanganui Region,40,Palmerston North City
+563101,Hokowhitu West,8,Manawatu-Wanganui Region,40,Palmerston North City
+563102,Hokowhitu Lagoon,8,Manawatu-Wanganui Region,40,Palmerston North City
+563200,Hokowhitu East,8,Manawatu-Wanganui Region,40,Palmerston North City
+563300,Aokautere,8,Manawatu-Wanganui Region,40,Palmerston North City
+563500,Shannon,8,Manawatu-Wanganui Region,42,Horowhenua District
+563600,Waitarere,8,Manawatu-Wanganui Region,42,Horowhenua District
+563701,Waikanae Beach,9,Wellington Region,43,Kapiti Coast District
+563703,Waikanae East,9,Wellington Region,43,Kapiti Coast District
+563704,Peka Peka,9,Wellington Region,43,Kapiti Coast District
+563705,Waikanae Park,9,Wellington Region,43,Kapiti Coast District
+563706,Waikanae West,9,Wellington Region,43,Kapiti Coast District
+563801,Tokomaru,8,Manawatu-Wanganui Region,42,Horowhenua District
+563802,Opiki,8,Manawatu-Wanganui Region,42,Horowhenua District
+563920,Kaitawa,9,Wellington Region,43,Kapiti Coast District
+564011,Lake Horowhenua,8,Manawatu-Wanganui Region,42,Horowhenua District
+564012,Waiopehu,8,Manawatu-Wanganui Region,42,Horowhenua District
+564013,Kohitere,8,Manawatu-Wanganui Region,42,Horowhenua District
+564021,Mangaore-Manakau,8,Manawatu-Wanganui Region,42,Horowhenua District
+564022,Otaki Forks,9,Wellington Region,43,Kapiti Coast District
+564023,Te Horo,9,Wellington Region,43,Kapiti Coast District
+564210,Levin North,8,Manawatu-Wanganui Region,42,Horowhenua District
+564220,Levin West,8,Manawatu-Wanganui Region,42,Horowhenua District
+564231,Playford Park,8,Manawatu-Wanganui Region,42,Horowhenua District
+564232,Levin South,8,Manawatu-Wanganui Region,42,Horowhenua District
+564240,Levin East,8,Manawatu-Wanganui Region,42,Horowhenua District
+564400,Otaki,9,Wellington Region,43,Kapiti Coast District
+564510,Heretaunga,9,Wellington Region,45,Upper Hutt City
+564520,Trentham South,9,Wellington Region,45,Upper Hutt City
+564530,Pinehaven,9,Wellington Region,45,Upper Hutt City
+564601,Moonshine Valley,9,Wellington Region,45,Upper Hutt City
+564602,Riverstone Terraces,9,Wellington Region,45,Upper Hutt City
+564800,Glendale,9,Wellington Region,46,Lower Hutt City
+564900,Parkway,9,Wellington Region,46,Lower Hutt City
+565000,Fernlea,9,Wellington Region,46,Lower Hutt City
+565100,Arakura,9,Wellington Region,46,Lower Hutt City
+565200,Homedale West,9,Wellington Region,46,Lower Hutt City
+565300,Homedale East,9,Wellington Region,46,Lower Hutt City
+565400,Pencarrow,9,Wellington Region,46,Lower Hutt City
+565601,Pauatahanui,9,Wellington Region,44,Porirua City
+565602,Endeavour,9,Wellington Region,44,Porirua City
+565603,Resolution,9,Wellington Region,44,Porirua City
+565604,Adventure,9,Wellington Region,44,Porirua City
+565700,Paekakariki Hill,9,Wellington Region,44,Porirua City
+565901,Paraparaumu Beach North,9,Wellington Region,43,Kapiti Coast District
+565902,Otaihanga,9,Wellington Region,43,Kapiti Coast District
+565903,Paraparaumu Beach South,9,Wellington Region,43,Kapiti Coast District
+566000,Paraparaumu Central,9,Wellington Region,43,Kapiti Coast District
+566101,Raumati Beach,9,Wellington Region,43,Kapiti Coast District
+566102,Raumati South,9,Wellington Region,43,Kapiti Coast District
+566200,Paekakariki,9,Wellington Region,43,Kapiti Coast District
+566301,Kapiti Island,9,Wellington Region,43,Kapiti Coast District
+566302,Maungakotukutuku,9,Wellington Region,43,Kapiti Coast District
+566500,Te Marua,9,Wellington Region,45,Upper Hutt City
+566610,Akatarawa,9,Wellington Region,45,Upper Hutt City
+566620,Emerald Hill,9,Wellington Region,45,Upper Hutt City
+566700,Maoribank,9,Wellington Region,45,Upper Hutt City
+566800,Clouston Park,9,Wellington Region,45,Upper Hutt City
+566900,Totara Park,9,Wellington Region,45,Upper Hutt City
+567000,Ebdentown,9,Wellington Region,45,Upper Hutt City
+567100,Upper Hutt Central,9,Wellington Region,45,Upper Hutt City
+567200,Maidstone,9,Wellington Region,45,Upper Hutt City
+567300,Wallaceville,9,Wellington Region,45,Upper Hutt City
+567400,Elderslea,9,Wellington Region,45,Upper Hutt City
+567500,Poets Block,9,Wellington Region,45,Upper Hutt City
+567600,Brentwood,9,Wellington Region,45,Upper Hutt City
+567700,Trentham North,9,Wellington Region,45,Upper Hutt City
+567800,Heretaunga-Silverstream,9,Wellington Region,45,Upper Hutt City
+567901,Cloustonville,9,Wellington Region,45,Upper Hutt City
+567902,Mangaroa,9,Wellington Region,45,Upper Hutt City
+568101,Tawhai,9,Wellington Region,46,Lower Hutt City
+568102,Holborn,9,Wellington Region,46,Lower Hutt City
+568103,Delaney,9,Wellington Region,46,Lower Hutt City
+568104,Manuka,9,Wellington Region,46,Lower Hutt City
+568201,Taita North,9,Wellington Region,46,Lower Hutt City
+568202,Taita South,9,Wellington Region,46,Lower Hutt City
+568301,Avalon East,9,Wellington Region,46,Lower Hutt City
+568302,Naenae North,9,Wellington Region,46,Lower Hutt City
+568303,Naenae South,9,Wellington Region,46,Lower Hutt City
+568401,Avalon West,9,Wellington Region,46,Lower Hutt City
+568402,Boulcott,9,Wellington Region,46,Lower Hutt City
+568501,Epuni West,9,Wellington Region,46,Lower Hutt City
+568502,Epuni East,9,Wellington Region,46,Lower Hutt City
+568601,Waterloo West,9,Wellington Region,46,Lower Hutt City
+568602,Waterloo East,9,Wellington Region,46,Lower Hutt City
+568701,Waiwhetu North,9,Wellington Region,46,Lower Hutt City
+568702,Waiwhetu South,9,Wellington Region,46,Lower Hutt City
+568800,Gracefield,9,Wellington Region,46,Lower Hutt City
+568900,Moera,9,Wellington Region,46,Lower Hutt City
+569001,Woburn North,9,Wellington Region,46,Lower Hutt City
+569002,Woburn South,9,Wellington Region,46,Lower Hutt City
+569100,Hutt Central,9,Wellington Region,46,Lower Hutt City
+569201,Melling,9,Wellington Region,46,Lower Hutt City
+569202,Alicetown,9,Wellington Region,46,Lower Hutt City
+569301,Normandale,9,Wellington Region,46,Lower Hutt City
+569302,Maungaraki,9,Wellington Region,46,Lower Hutt City
+569401,Tirohanga,9,Wellington Region,46,Lower Hutt City
+569402,Belmont,9,Wellington Region,46,Lower Hutt City
+569500,Kelson,9,Wellington Region,46,Lower Hutt City
+569600,Haywards-Manor Park,9,Wellington Region,46,Lower Hutt City
+569800,Korokoro,9,Wellington Region,46,Lower Hutt City
+569900,Petone Central,9,Wellington Region,46,Lower Hutt City
+570000,Esplanade,9,Wellington Region,46,Lower Hutt City
+570100,Wilford,9,Wellington Region,46,Lower Hutt City
+570300,Eastbourne,9,Wellington Region,46,Lower Hutt City
+570400,Titahi Bay North,9,Wellington Region,44,Porirua City
+570500,Onepoto,9,Wellington Region,44,Porirua City
+570600,Titahi Bay South,9,Wellington Region,44,Porirua City
+570700,Elsdon-Takapuwahia,9,Wellington Region,44,Porirua City
+570800,Porirua Central,9,Wellington Region,44,Porirua City
+570900,Porirua East,9,Wellington Region,44,Porirua City
+571000,Ranui Heights,9,Wellington Region,44,Porirua City
+571100,Cannons Creek North,9,Wellington Region,44,Porirua City
+571200,Cannons Creek South,9,Wellington Region,44,Porirua City
+571300,Cannons Creek East,9,Wellington Region,44,Porirua City
+571400,Waitangirua,9,Wellington Region,44,Porirua City
+571501,Papakowhai North,9,Wellington Region,44,Porirua City
+571502,Papakowhai South,9,Wellington Region,44,Porirua City
+571600,Ascot Park,9,Wellington Region,44,Porirua City
+571800,Pukerua Bay,9,Wellington Region,44,Porirua City
+571900,Plimmerton,9,Wellington Region,44,Porirua City
+572000,Mana-Camborne,9,Wellington Region,44,Porirua City
+572100,Paremata-Postgate,9,Wellington Region,44,Porirua City
+572200,Discovery,9,Wellington Region,44,Porirua City
+572300,Mana Island,9,Wellington Region,44,Porirua City
+572500,Tawa South,9,Wellington Region,47,Wellington City
+572600,Tawa Central,9,Wellington Region,47,Wellington City
+572701,Linden,9,Wellington Region,47,Wellington City
+572702,Greenacres,9,Wellington Region,47,Wellington City
+572900,Thorndon-Tinakori Road,9,Wellington Region,47,Wellington City
+573000,Lambton,9,Wellington Region,47,Wellington City
+573101,Willis Street-Cambridge Terrace,9,Wellington Region,47,Wellington City
+573102,Wellington City-Marinas,9,Wellington Region,47,Wellington City
+573200,Aro Street-Nairn Street,9,Wellington Region,47,Wellington City
+573300,Mt Cook-Wallace Street,9,Wellington Region,47,Wellington City
+573400,Mt Victoria West,9,Wellington Region,47,Wellington City
+573511,Glenside North,9,Wellington Region,47,Wellington City
+573513,Churton Park North,9,Wellington Region,47,Wellington City
+573514,Churton Park South,9,Wellington Region,47,Wellington City
+573522,Grenada North,9,Wellington Region,47,Wellington City
+573523,Grenada Village,9,Wellington Region,47,Wellington City
+573524,Newlands East,9,Wellington Region,47,Wellington City
+573525,Takapu,9,Wellington Region,47,Wellington City
+573526,Horokiwi,9,Wellington Region,47,Wellington City
+573600,Johnsonville North,9,Wellington Region,47,Wellington City
+573700,Johnsonville Central,9,Wellington Region,47,Wellington City
+573801,Paparangi West,9,Wellington Region,47,Wellington City
+573802,Johnsonville East,9,Wellington Region,47,Wellington City
+573901,Paparangi,9,Wellington Region,47,Wellington City
+573902,Woodridge,9,Wellington Region,47,Wellington City
+573903,Newlands North,9,Wellington Region,47,Wellington City
+574001,Newlands South,9,Wellington Region,47,Wellington City
+574002,Ngauranga East,9,Wellington Region,47,Wellington City
+574100,Raroa,9,Wellington Region,47,Wellington City
+574200,Khandallah Park-Broadmeadows,9,Wellington Region,47,Wellington City
+574302,Te Kainga,9,Wellington Region,47,Wellington City
+574303,Ngauranga West,9,Wellington Region,47,Wellington City
+574304,Rangoon Heights,9,Wellington Region,47,Wellington City
+574401,Awarua,9,Wellington Region,47,Wellington City
+574402,Ngaio South,9,Wellington Region,47,Wellington City
+574500,Kaiwharawhara,9,Wellington Region,47,Wellington City
+574600,Wadestown,9,Wellington Region,47,Wellington City
+574701,Crofton Downs,9,Wellington Region,47,Wellington City
+574702,Wilton,9,Wellington Region,47,Wellington City
+574703,Northland North,9,Wellington Region,47,Wellington City
+574800,Karori North,9,Wellington Region,47,Wellington City
+574900,Karori Park,9,Wellington Region,47,Wellington City
+575000,Karori East,9,Wellington Region,47,Wellington City
+575100,Karori South,9,Wellington Region,47,Wellington City
+575200,Northland,9,Wellington Region,47,Wellington City
+575300,Kelburn,9,Wellington Region,47,Wellington City
+575400,Taitville,9,Wellington Region,47,Wellington City
+575500,Mitchelltown,9,Wellington Region,47,Wellington City
+575600,Brooklyn,9,Wellington Region,47,Wellington City
+575701,Vogeltown West,9,Wellington Region,47,Wellington City
+575702,Vogeltown,9,Wellington Region,47,Wellington City
+575800,Kingston-Mornington,9,Wellington Region,47,Wellington City
+575901,Brooklyn South,9,Wellington Region,47,Wellington City
+575902,Happy Valley-Owhiro Bay,9,Wellington Region,47,Wellington City
+576001,Island Bay West,9,Wellington Region,47,Wellington City
+576002,Island Bay East,9,Wellington Region,47,Wellington City
+576100,Melrose-Houghton Bay-Southgate,9,Wellington Region,47,Wellington City
+576200,Berhampore West,9,Wellington Region,47,Wellington City
+576301,Newtown West,9,Wellington Region,47,Wellington City
+576302,Berhampore East,9,Wellington Region,47,Wellington City
+576400,Newtown East,9,Wellington Region,47,Wellington City
+576500,Adelaide,9,Wellington Region,47,Wellington City
+576600,Oriental Bay,9,Wellington Region,47,Wellington City
+576700,Roseneath,9,Wellington Region,47,Wellington City
+576800,Hataitai North,9,Wellington Region,47,Wellington City
+576901,Kilbirnie East,9,Wellington Region,47,Wellington City
+576903,Kilbirnie West-Hataitai South,9,Wellington Region,47,Wellington City
+576904,Evans Bay Marina,9,Wellington Region,47,Wellington City
+577000,Lyall Bay-Airport-Moa Point,9,Wellington Region,47,Wellington City
+577101,Seatoun Tunnel West,9,Wellington Region,47,Wellington City
+577102,Strathmore Park,9,Wellington Region,47,Wellington City
+577200,Miramar South,9,Wellington Region,47,Wellington City
+577301,Miramar North,9,Wellington Region,47,Wellington City
+577302,Miramar,9,Wellington Region,47,Wellington City
+577400,Karaka Bay-Worser Bay,9,Wellington Region,47,Wellington City
+577500,Seatoun,9,Wellington Region,47,Wellington City
+577601,Maupuia,9,Wellington Region,47,Wellington City
+577602,Miramar West,9,Wellington Region,47,Wellington City
+577700,Makara-Ohariu,9,Wellington Region,47,Wellington City
+577900,Mangatainoka,8,Manawatu-Wanganui Region,41,Tararua District
+578000,Pahiatua,8,Manawatu-Wanganui Region,41,Tararua District
+578100,Eketahuna,8,Manawatu-Wanganui Region,41,Tararua District
+578200,Nireaha-Tiraumea,8,Manawatu-Wanganui Region,41,Tararua District
+578301,Homebush-Te Ore Ore,9,Wellington Region,48,Masterton District
+578302,Opaki-Fernridge,9,Wellington Region,48,Masterton District
+578401,Kopuaranga,9,Wellington Region,48,Masterton District
+578402,Whareama,9,Wellington Region,48,Masterton District
+578600,Masterton Central,9,Wellington Region,48,Masterton District
+578700,Masterton West,9,Wellington Region,48,Masterton District
+578800,Masterton East,9,Wellington Region,48,Masterton District
+578901,Solway North,9,Wellington Region,48,Masterton District
+578902,Solway South,9,Wellington Region,48,Masterton District
+579000,Ngaumutawa,9,Wellington Region,48,Masterton District
+579100,Masterton Railway,9,Wellington Region,48,Masterton District
+579200,Lansdowne,9,Wellington Region,48,Masterton District
+579400,Waingawa,9,Wellington Region,49,Carterton District
+579501,Mt Holdsworth,9,Wellington Region,49,Carterton District
+579502,Te Wharau,9,Wellington Region,49,Carterton District
+579700,Carterton,9,Wellington Region,49,Carterton District
+579802,Tuturumuri,9,Wellington Region,50,South Wairarapa District
+579803,Kahutara,9,Wellington Region,50,South Wairarapa District
+579804,Inland Water-Lake Wairarapa,9,Wellington Region,50,South Wairarapa District
+579900,Greytown,9,Wellington Region,50,South Wairarapa District
+580000,Featherston,9,Wellington Region,50,South Wairarapa District
+580100,Martinborough,9,Wellington Region,50,South Wairarapa District
+580200,Havelock,18,Marlborough Region,53,Marlborough District
+580300,Renwick,18,Marlborough Region,53,Marlborough District
+580410,Woodbourne,18,Marlborough Region,53,Marlborough District
+580420,Omaka,18,Marlborough Region,53,Marlborough District
+580431,Spring Creek-Grovetown,18,Marlborough Region,53,Marlborough District
+580432,Riverlands,18,Marlborough Region,53,Marlborough District
+580442,Waikawa,18,Marlborough Region,53,Marlborough District
+580445,Marlborough Sounds Coastal Marine,18,Marlborough Region,53,Marlborough District
+580446,Marlborough Sounds Terrestrial,18,Marlborough Region,53,Marlborough District
+580447,Wairau North,18,Marlborough Region,53,Marlborough District
+580448,Tuamarina,18,Marlborough Region,53,Marlborough District
+580449,Rapaura,18,Marlborough Region,53,Marlborough District
+580450,Wairau South,18,Marlborough Region,53,Marlborough District
+580451,Weld Pass,18,Marlborough Region,53,Marlborough District
+580452,Fairhall,18,Marlborough Region,53,Marlborough District
+580600,Severn,18,Marlborough Region,53,Marlborough District
+580801,Ward,18,Marlborough Region,53,Marlborough District
+580802,Seddon,18,Marlborough Region,53,Marlborough District
+580900,Lake Tennyson,13,Canterbury Region,58,Hurunui District
+581100,Picton,18,Marlborough Region,53,Marlborough District
+581210,Springlands,18,Marlborough Region,53,Marlborough District
+581220,Mayfield,18,Marlborough Region,53,Marlborough District
+581230,Blenheim Central,18,Marlborough Region,53,Marlborough District
+581240,Whitney,18,Marlborough Region,53,Marlborough District
+581250,Redwoodtown,18,Marlborough Region,53,Marlborough District
+581260,Witherlea,18,Marlborough Region,53,Marlborough District
+581400,Kaikoura Township,13,Canterbury Region,54,Kaikoura District
+581500,Kaikoura Rural,13,Canterbury Region,54,Kaikoura District
+581601,Golden Bay,16,Tasman Region,51,Tasman District
+581602,Takaka,16,Tasman Region,51,Tasman District
+581713,Glenduan,17,Nelson Region,52,Nelson City
+581715,Ngawhatu,17,Nelson Region,52,Nelson City
+581717,Aniseed Hill,16,Tasman Region,51,Tasman District
+581720,Hope,16,Tasman Region,51,Tasman District
+581721,Saxton Island,17,Nelson Region,52,Nelson City
+581722,Waimea Inlet East,17,Nelson Region,52,Nelson City
+581723,Saxton,17,Nelson Region,52,Nelson City
+581724,Best Island,16,Tasman Region,51,Tasman District
+581725,Bell Island,16,Tasman Region,51,Tasman District
+581726,Ranzau,16,Tasman Region,51,Tasman District
+581811,Richmond Hill,16,Tasman Region,51,Tasman District
+581812,Whangamoa,17,Nelson Region,52,Nelson City
+581822,Brightwater,16,Tasman Region,51,Tasman District
+581823,Wakefield,16,Tasman Region,51,Tasman District
+581825,Mapua,16,Tasman Region,51,Tasman District
+581831,Inlet-Motueka,16,Tasman Region,51,Tasman District
+581832,Kaiteriteri,16,Tasman Region,51,Tasman District
+581833,Motueka Outer,16,Tasman Region,51,Tasman District
+581834,Rabbit Island,16,Tasman Region,51,Tasman District
+581835,Waimea Inlet West,16,Tasman Region,51,Tasman District
+581836,Wai-Iti,16,Tasman Region,51,Tasman District
+581841,Golden Downs,16,Tasman Region,51,Tasman District
+581842,Lake Rotoroa,16,Tasman Region,51,Tasman District
+581843,Murchison,16,Tasman Region,51,Tasman District
+581844,Tapawera,16,Tasman Region,51,Tasman District
+581850,Riwaka,16,Tasman Region,51,Tasman District
+582000,Clifton,17,Nelson Region,52,Nelson City
+582100,Atawhai,17,Nelson Region,52,Nelson City
+582200,Port Nelson,17,Nelson Region,52,Nelson City
+582300,The Wood,17,Nelson Region,52,Nelson City
+582401,Britannia,17,Nelson Region,52,Nelson City
+582402,Washington,17,Nelson Region,52,Nelson City
+582500,Trafalgar,17,Nelson Region,52,Nelson City
+582600,Maitai,17,Nelson Region,52,Nelson City
+582700,Kirks,17,Nelson Region,52,Nelson City
+582800,Bronte,17,Nelson Region,52,Nelson City
+582900,Atmore,17,Nelson Region,52,Nelson City
+583000,Tahunanui,17,Nelson Region,52,Nelson City
+583100,Tahuna Hills,17,Nelson Region,52,Nelson City
+583201,Toi Toi,17,Nelson Region,52,Nelson City
+583202,Broads,17,Nelson Region,52,Nelson City
+583300,Grampians,17,Nelson Region,52,Nelson City
+583400,The Brook,17,Nelson Region,52,Nelson City
+583500,Nelson Airport,17,Nelson Region,52,Nelson City
+583600,Nayland,17,Nelson Region,52,Nelson City
+583700,Enner Glynn,17,Nelson Region,52,Nelson City
+583800,Maitlands,17,Nelson Region,52,Nelson City
+583900,Isel Park,17,Nelson Region,52,Nelson City
+584000,Langbein,17,Nelson Region,52,Nelson City
+584201,Richmond East,16,Tasman Region,51,Tasman District
+584202,Richmond West,16,Tasman Region,51,Tasman District
+584301,Motueka West,16,Tasman Region,51,Tasman District
+584303,Motueka East,16,Tasman Region,51,Tasman District
+584304,Moutere Inlet,16,Tasman Region,51,Tasman District
+584305,Jackett Island,16,Tasman Region,51,Tasman District
+584402,Karamea,12,West Coast Region,55,Buller District
+584403,Hector-Ngakawau,12,West Coast Region,55,Buller District
+584404,Granity,12,West Coast Region,55,Buller District
+584405,Orowaiti,12,West Coast Region,55,Buller District
+584407,Little Wanganui,12,West Coast Region,55,Buller District
+584408,Mokihinui,12,West Coast Region,55,Buller District
+584409,Buller Coalfields,12,West Coast Region,55,Buller District
+584410,Westport Rural,12,West Coast Region,55,Buller District
+584411,Charleston,12,West Coast Region,55,Buller District
+584412,Inangahua Junction,12,West Coast Region,55,Buller District
+584500,Westport Urban,12,West Coast Region,55,Buller District
+584600,Reefton,12,West Coast Region,55,Buller District
+584701,Inangahua Valley,12,West Coast Region,55,Buller District
+584702,Mawheraiti,12,West Coast Region,55,Buller District
+584703,Maruia,12,West Coast Region,55,Buller District
+584800,Karoro,12,West Coast Region,56,Grey District
+584911,Kaiata,12,West Coast Region,56,Grey District
+584912,South Beach-Camerons,12,West Coast Region,56,Grey District
+584922,Blackball,12,West Coast Region,56,Grey District
+584923,Point Elizabeth,12,West Coast Region,56,Grey District
+584930,Dobson,12,West Coast Region,56,Grey District
+584931,Barrytown,12,West Coast Region,56,Grey District
+584932,Coal Creek,12,West Coast Region,56,Grey District
+584933,Atarau,12,West Coast Region,56,Grey District
+584934,Greymouth Rural,12,West Coast Region,56,Grey District
+584935,Marsden-Hohonu,12,West Coast Region,56,Grey District
+584936,Arnold Valley,12,West Coast Region,56,Grey District
+584937,Nelson Creek-Ngahere,12,West Coast Region,56,Grey District
+584938,Ahaura,12,West Coast Region,56,Grey District
+584939,Lake Brunner,12,West Coast Region,56,Grey District
+584940,Haupiri,12,West Coast Region,56,Grey District
+585000,Runanga-Rapahoe,12,West Coast Region,56,Grey District
+585110,Cobden,12,West Coast Region,56,Grey District
+585120,Blaketown,12,West Coast Region,56,Grey District
+585130,Greymouth Central,12,West Coast Region,56,Grey District
+585140,Greymouth South,12,West Coast Region,56,Grey District
+585306,Kumara,12,West Coast Region,57,Westland District
+585307,Kaniere,12,West Coast Region,57,Westland District
+585309,Ross,12,West Coast Region,57,Westland District
+585311,Harihari,12,West Coast Region,57,Westland District
+585312,Franz Josef,12,West Coast Region,57,Westland District
+585313,Fox Glacier,12,West Coast Region,57,Westland District
+585314,Taramakau,12,West Coast Region,57,Westland District
+585315,Otira,12,West Coast Region,57,Westland District
+585316,Waimea-Arahura,12,West Coast Region,57,Westland District
+585317,Hokitika Rural,12,West Coast Region,57,Westland District
+585318,Hokitika Valley,12,West Coast Region,57,Westland District
+585319,Totara River,12,West Coast Region,57,Westland District
+585320,Waitaha,12,West Coast Region,57,Westland District
+585321,Whataroa,12,West Coast Region,57,Westland District
+585322,Waiho,12,West Coast Region,57,Westland District
+585323,Karangarua,12,West Coast Region,57,Westland District
+585324,Bruce Bay-Paringa,12,West Coast Region,57,Westland District
+585325,Haast,12,West Coast Region,57,Westland District
+585400,Hokitika Urban,12,West Coast Region,57,Westland District
+585502,Hanmer Springs,13,Canterbury Region,58,Hurunui District
+585504,Culverden,13,Canterbury Region,58,Hurunui District
+585505,Waiau,13,Canterbury Region,58,Hurunui District
+585506,Amuri,13,Canterbury Region,58,Hurunui District
+585601,Parnassus,13,Canterbury Region,58,Hurunui District
+585602,Cheviot,13,Canterbury Region,58,Hurunui District
+585700,Hurunui,13,Canterbury Region,58,Hurunui District
+585802,Amberley,13,Canterbury Region,58,Hurunui District
+585803,Leithfield,13,Canterbury Region,58,Hurunui District
+585805,Sefton,13,Canterbury Region,59,Waimakariri District
+585806,Okuku,13,Canterbury Region,59,Waimakariri District
+585807,Loburn,13,Canterbury Region,59,Waimakariri District
+585808,Ashley,13,Canterbury Region,59,Waimakariri District
+586001,Camside,13,Canterbury Region,59,Waimakariri District
+586002,Pines-Kairaki Beach,13,Canterbury Region,59,Waimakariri District
+586112,Waikuku,13,Canterbury Region,59,Waimakariri District
+586114,Cust,13,Canterbury Region,59,Waimakariri District
+586115,Mairaki,13,Canterbury Region,59,Waimakariri District
+586120,Woodend,13,Canterbury Region,59,Waimakariri District
+586121,Fernside,13,Canterbury Region,59,Waimakariri District
+586122,Lehmans,13,Canterbury Region,59,Waimakariri District
+586124,Pegasus,13,Canterbury Region,59,Waimakariri District
+586126,Woodend Beach,13,Canterbury Region,59,Waimakariri District
+586127,Coldstream,13,Canterbury Region,59,Waimakariri District
+586128,Ravenswood,13,Canterbury Region,59,Waimakariri District
+586129,Tuahiwi,13,Canterbury Region,59,Waimakariri District
+586130,Woodend West,13,Canterbury Region,59,Waimakariri District
+586303,Rangiora East,13,Canterbury Region,59,Waimakariri District
+586304,Southbrook,13,Canterbury Region,59,Waimakariri District
+586305,Kingsbury,13,Canterbury Region,59,Waimakariri District
+586306,Rangiora North,13,Canterbury Region,59,Waimakariri District
+586307,Rangiora West,13,Canterbury Region,59,Waimakariri District
+586308,Rangiora Central,13,Canterbury Region,59,Waimakariri District
+586403,Kaiapoi South,13,Canterbury Region,59,Waimakariri District
+586404,Mansfield,13,Canterbury Region,59,Waimakariri District
+586405,Courtenay,13,Canterbury Region,59,Waimakariri District
+586407,Kaiapoi East,13,Canterbury Region,59,Waimakariri District
+586408,Kaiapoi North West,13,Canterbury Region,59,Waimakariri District
+586409,Kaiapoi North East,13,Canterbury Region,59,Waimakariri District
+586501,Clarkville,13,Canterbury Region,59,Waimakariri District
+586503,Kaiapoi West,13,Canterbury Region,59,Waimakariri District
+586504,Silverstream,13,Canterbury Region,59,Waimakariri District
+586603,Mandeville,13,Canterbury Region,59,Waimakariri District
+586604,Ohoka,13,Canterbury Region,59,Waimakariri District
+586605,West Eyreton,13,Canterbury Region,59,Waimakariri District
+586606,Eyrewell,13,Canterbury Region,59,Waimakariri District
+586801,Ashley Gorge,13,Canterbury Region,59,Waimakariri District
+586802,Oxford,13,Canterbury Region,59,Waimakariri District
+586900,Darfield,13,Canterbury Region,62,Selwyn District
+587010,Kirwee,13,Canterbury Region,62,Selwyn District
+587020,Burnham Military Camp,13,Canterbury Region,62,Selwyn District
+587100,Malvern,13,Canterbury Region,62,Selwyn District
+587302,Halswell South,13,Canterbury Region,60,Christchurch City
+587303,Oaklands West,13,Canterbury Region,60,Christchurch City
+587304,Oaklands East,13,Canterbury Region,60,Christchurch City
+587400,Hornby North,13,Canterbury Region,60,Christchurch City
+587500,Hornby South,13,Canterbury Region,60,Christchurch City
+587701,Sockburn,13,Canterbury Region,60,Christchurch City
+587702,Wigram,13,Canterbury Region,60,Christchurch City
+587811,Yaldhurst,13,Canterbury Region,60,Christchurch City
+587812,Broomfield,13,Canterbury Region,60,Christchurch City
+587821,Paparua,13,Canterbury Region,60,Christchurch City
+587822,Templeton,13,Canterbury Region,60,Christchurch City
+587830,Islington,13,Canterbury Region,60,Christchurch City
+587842,Halswell West,13,Canterbury Region,60,Christchurch City
+587844,Westmorland,13,Canterbury Region,60,Christchurch City
+587845,Aidanfield,13,Canterbury Region,60,Christchurch City
+587846,Halswell Domain,13,Canterbury Region,60,Christchurch City
+587847,Hendersons Basin,13,Canterbury Region,60,Christchurch City
+587848,Prebbleton,13,Canterbury Region,62,Selwyn District
+587849,Trents-Ladbrooks,13,Canterbury Region,62,Selwyn District
+587902,Mcleans Island,13,Canterbury Region,60,Christchurch City
+587903,Kennedys Bush,13,Canterbury Region,60,Christchurch City
+587904,West Melton,13,Canterbury Region,62,Selwyn District
+587905,Taitapu,13,Canterbury Region,62,Selwyn District
+588101,Redwood North,13,Canterbury Region,60,Christchurch City
+588102,Redwood South,13,Canterbury Region,60,Christchurch City
+588200,Styx Mill,13,Canterbury Region,60,Christchurch City
+588300,Casebrook,13,Canterbury Region,60,Christchurch City
+588401,Belfast South,13,Canterbury Region,60,Christchurch City
+588402,Sawyers Arms,13,Canterbury Region,60,Christchurch City
+588500,Bishopdale North,13,Canterbury Region,60,Christchurch City
+588600,Harewood,13,Canterbury Region,60,Christchurch City
+588700,Bishopdale,13,Canterbury Region,60,Christchurch City
+588800,Russley,13,Canterbury Region,60,Christchurch City
+588900,Burnside,13,Canterbury Region,60,Christchurch City
+589000,Wairarapa,13,Canterbury Region,60,Christchurch City
+589100,Jellie Park,13,Canterbury Region,60,Christchurch City
+589200,Bryndwr,13,Canterbury Region,60,Christchurch City
+589300,Holmwood,13,Canterbury Region,60,Christchurch City
+589400,Fendalton,13,Canterbury Region,60,Christchurch City
+589500,Deans Bush,13,Canterbury Region,60,Christchurch City
+589601,Hawthornden,13,Canterbury Region,60,Christchurch City
+589602,Merrin,13,Canterbury Region,60,Christchurch City
+589700,Westburn,13,Canterbury Region,60,Christchurch City
+589800,Avonhead West,13,Canterbury Region,60,Christchurch City
+589900,Avonhead,13,Canterbury Region,60,Christchurch City
+590000,Ilam,13,Canterbury Region,60,Christchurch City
+590100,Upper Riccarton,13,Canterbury Region,60,Christchurch City
+590200,Wharenui,13,Canterbury Region,60,Christchurch City
+590300,Middleton,13,Canterbury Region,60,Christchurch City
+590400,Belfast,13,Canterbury Region,60,Christchurch City
+590501,Travis Wetland,13,Canterbury Region,60,Christchurch City
+590504,Mairehau North,13,Canterbury Region,60,Christchurch City
+590505,Westhaven,13,Canterbury Region,60,Christchurch City
+590506,Highfield Park,13,Canterbury Region,60,Christchurch City
+590507,Prestons,13,Canterbury Region,60,Christchurch City
+590602,Parklands,13,Canterbury Region,60,Christchurch City
+590603,Waimairi Beach,13,Canterbury Region,60,Christchurch City
+590604,Styx,13,Canterbury Region,60,Christchurch City
+590701,Mona Vale,13,Canterbury Region,60,Christchurch City
+590702,Riccarton West,13,Canterbury Region,60,Christchurch City
+590800,Riccarton,13,Canterbury Region,60,Christchurch City
+590900,Riccarton South,13,Canterbury Region,60,Christchurch City
+591101,Cashmere West,13,Canterbury Region,60,Christchurch City
+591102,Cashmere East,13,Canterbury Region,60,Christchurch City
+591200,Rapaki Track,13,Canterbury Region,60,Christchurch City
+591300,Heathcote Valley,13,Canterbury Region,60,Christchurch City
+591500,Cathedral Square,13,Canterbury Region,60,Christchurch City
+591600,Hagley Park,13,Canterbury Region,60,Christchurch City
+591700,Avon Loop,13,Canterbury Region,60,Christchurch City
+591800,Northcote,13,Canterbury Region,60,Christchurch City
+591900,Papanui,13,Canterbury Region,60,Christchurch City
+592000,Aorangi,13,Canterbury Region,60,Christchurch City
+592100,Strowan,13,Canterbury Region,60,Christchurch City
+592200,Merivale,13,Canterbury Region,60,Christchurch City
+592300,Rutland,13,Canterbury Region,60,Christchurch City
+592401,St Albans West,13,Canterbury Region,60,Christchurch City
+592402,St Albans East,13,Canterbury Region,60,Christchurch City
+592500,Mairehau,13,Canterbury Region,60,Christchurch City
+592600,Edgeware,13,Canterbury Region,60,Christchurch City
+592701,Shirley West,13,Canterbury Region,60,Christchurch City
+592702,Shirley East,13,Canterbury Region,60,Christchurch City
+592811,Burwood,13,Canterbury Region,60,Christchurch City
+592812,Dallington,13,Canterbury Region,60,Christchurch City
+592820,Travis,13,Canterbury Region,60,Christchurch City
+592900,Avondale,13,Canterbury Region,60,Christchurch City
+593000,Wainoni,13,Canterbury Region,60,Christchurch City
+593100,Aranui,13,Canterbury Region,60,Christchurch City
+593200,Richmond North,13,Canterbury Region,60,Christchurch City
+593300,Richmond South,13,Canterbury Region,60,Christchurch City
+593400,Avonside,13,Canterbury Region,60,Christchurch City
+593501,Linwood,13,Canterbury Region,60,Christchurch City
+593502,Phillipstown,13,Canterbury Region,60,Christchurch City
+593600,Linwood North,13,Canterbury Region,60,Christchurch City
+593700,Linwood East,13,Canterbury Region,60,Christchurch City
+593800,Bexley,13,Canterbury Region,60,Christchurch City
+593900,Bromley,13,Canterbury Region,60,Christchurch City
+594010,Woolston West,13,Canterbury Region,60,Christchurch City
+594020,Ferrymead,13,Canterbury Region,60,Christchurch City
+594100,Woolston South,13,Canterbury Region,60,Christchurch City
+594200,Ensors,13,Canterbury Region,60,Christchurch City
+594300,Opawa,13,Canterbury Region,60,Christchurch City
+594400,St Martins,13,Canterbury Region,60,Christchurch City
+594500,Waltham,13,Canterbury Region,60,Christchurch City
+594600,Sydenham,13,Canterbury Region,60,Christchurch City
+594700,Addington,13,Canterbury Region,60,Christchurch City
+594800,Barrington North,13,Canterbury Region,60,Christchurch City
+594900,Barrington South,13,Canterbury Region,60,Christchurch City
+595000,Spreydon,13,Canterbury Region,60,Christchurch City
+595100,Hoon Hay,13,Canterbury Region,60,Christchurch City
+595200,Hoon Hay South,13,Canterbury Region,60,Christchurch City
+595300,Hillmorton,13,Canterbury Region,60,Christchurch City
+595400,Somerfield,13,Canterbury Region,60,Christchurch City
+595500,Beckenham,13,Canterbury Region,60,Christchurch City
+595600,North Beach,13,Canterbury Region,60,Christchurch City
+595700,Rawhiti,13,Canterbury Region,60,Christchurch City
+595800,New Brighton,13,Canterbury Region,60,Christchurch City
+595900,South Brighton,13,Canterbury Region,60,Christchurch City
+596000,Mt Pleasant,13,Canterbury Region,60,Christchurch City
+596101,Avon-Heathcote Estuary,13,Canterbury Region,60,Christchurch City
+596102,Moncks Bay,13,Canterbury Region,60,Christchurch City
+596200,Sumner,13,Canterbury Region,60,Christchurch City
+596400,Lyttelton,13,Canterbury Region,60,Christchurch City
+596502,Diamond Harbour,13,Canterbury Region,60,Christchurch City
+596503,Governors Bay,13,Canterbury Region,60,Christchurch City
+596504,Quail Island,13,Canterbury Region,60,Christchurch City
+596600,Port Levy,13,Canterbury Region,60,Christchurch City
+596800,Akaroa,13,Canterbury Region,60,Christchurch City
+596901,Akaroa Harbour,13,Canterbury Region,60,Christchurch City
+596902,Banks Peninsula Eastern Bays,13,Canterbury Region,60,Christchurch City
+597000,Chatham Islands,99,Area Outside Region,67,Chatham Islands Territory
+597101,Little River,13,Canterbury Region,60,Christchurch City
+597102,Inland Water-Lake Ellesmere South,13,Canterbury Region,60,Christchurch City
+597200,Lincoln,13,Canterbury Region,62,Selwyn District
+597300,Leeston,13,Canterbury Region,62,Selwyn District
+597400,Southbridge,13,Canterbury Region,62,Selwyn District
+597503,Dunsandel,13,Canterbury Region,62,Selwyn District
+597505,Inland Water-Lake Ellesmere North,13,Canterbury Region,62,Selwyn District
+597506,Selwyn-Rakaia,13,Canterbury Region,62,Selwyn District
+597507,Rolleston North West,13,Canterbury Region,62,Selwyn District
+597508,Rolleston Central,13,Canterbury Region,62,Selwyn District
+597509,Rolleston North East,13,Canterbury Region,62,Selwyn District
+597510,Rolleston South West,13,Canterbury Region,62,Selwyn District
+597512,Springston,13,Canterbury Region,62,Selwyn District
+597513,Rolleston South East,13,Canterbury Region,62,Selwyn District
+597600,Methven,13,Canterbury Region,63,Ashburton District
+597712,Plains Railway,13,Canterbury Region,63,Ashburton District
+597713,Ashburton North,13,Canterbury Region,63,Ashburton District
+597714,Fairton,13,Canterbury Region,63,Ashburton District
+597715,Ashburton East,13,Canterbury Region,63,Ashburton District
+597720,Mt Somers,13,Canterbury Region,63,Ashburton District
+597730,Hinds,13,Canterbury Region,63,Ashburton District
+597741,Chertsey,13,Canterbury Region,63,Ashburton District
+597742,Rakaia,13,Canterbury Region,63,Ashburton District
+597811,Allenton West,13,Canterbury Region,63,Ashburton District
+597812,Allenton East,13,Canterbury Region,63,Ashburton District
+597820,Ashburton Central West,13,Canterbury Region,63,Ashburton District
+597830,Netherby,13,Canterbury Region,63,Ashburton District
+597840,Ashburton Central East,13,Canterbury Region,63,Ashburton District
+597850,Hampstead,13,Canterbury Region,63,Ashburton District
+597860,Tinwald,13,Canterbury Region,63,Ashburton District
+598000,Winchester,13,Canterbury Region,64,Timaru District
+598201,Fairview-Scarborough,13,Canterbury Region,64,Timaru District
+598202,Otipua Creek-Washdyke Flat,13,Canterbury Region,64,Timaru District
+598311,Ben Mcleod,13,Canterbury Region,64,Timaru District
+598312,Orari,13,Canterbury Region,64,Timaru District
+598313,Levels,13,Canterbury Region,64,Timaru District
+598314,Pareora,13,Canterbury Region,64,Timaru District
+598320,Pleasant Point,13,Canterbury Region,64,Timaru District
+598500,Geraldine,13,Canterbury Region,64,Timaru District
+598600,Temuka,13,Canterbury Region,64,Timaru District
+598700,Washdyke,13,Canterbury Region,64,Timaru District
+598800,Waimataitai,13,Canterbury Region,64,Timaru District
+598900,Marchwiel,13,Canterbury Region,64,Timaru District
+599000,Maori Park,13,Canterbury Region,64,Timaru District
+599100,Highfield,13,Canterbury Region,64,Timaru District
+599200,Glenwood,13,Canterbury Region,64,Timaru District
+599300,Gleniti,13,Canterbury Region,64,Timaru District
+599400,Fraser Park,13,Canterbury Region,64,Timaru District
+599500,Seaview,13,Canterbury Region,64,Timaru District
+599600,Watlington,13,Canterbury Region,64,Timaru District
+599700,Parkside,13,Canterbury Region,64,Timaru District
+599800,Timaru Gardens,13,Canterbury Region,64,Timaru District
+599900,Redruth,13,Canterbury Region,64,Timaru District
+600100,Twizel Community,13,Canterbury Region,65,Mackenzie District
+600200,Fairlie,13,Canterbury Region,65,Mackenzie District
+600312,Mt Cook,13,Canterbury Region,65,Mackenzie District
+600320,Lake Tekapo,13,Canterbury Region,65,Mackenzie District
+600321,Inland Water-Lake Alexandrina,13,Canterbury Region,65,Mackenzie District
+600322,Inland Water-Lake Tekapo,13,Canterbury Region,65,Mackenzie District
+600323,Mackenzie,13,Canterbury Region,65,Mackenzie District
+600410,Waihao,13,Canterbury Region,66,Waimate District
+600420,St Andrews,13,Canterbury Region,66,Waimate District
+600500,Waimate,13,Canterbury Region,66,Waimate District
+600600,Weston,14,Otago Region,68,Waitaki District
+600811,Pukeuri,14,Otago Region,68,Waitaki District
+600812,Ardgowan,14,Otago Region,68,Waitaki District
+600813,Cape Wanbrow,14,Otago Region,68,Waitaki District
+600822,Duntroon,13,Canterbury Region,68,Waitaki District
+600824,Kurow,13,Canterbury Region,68,Waitaki District
+600826,Maheno,14,Otago Region,68,Waitaki District
+600827,Omarama,13,Canterbury Region,68,Waitaki District
+600828,Kakanui,14,Otago Region,68,Waitaki District
+600830,Otematata,13,Canterbury Region,68,Waitaki District
+600831,Aviemore,13,Canterbury Region,68,Waitaki District
+600832,Inland Water-Lake Ohau,13,Canterbury Region,68,Waitaki District
+600840,Hampden,14,Otago Region,68,Waitaki District
+601010,Oamaru North,14,Otago Region,68,Waitaki District
+601020,Orana Park,14,Otago Region,68,Waitaki District
+601030,Oamaru Central,14,Otago Region,68,Waitaki District
+601040,Oamaru South,14,Otago Region,68,Waitaki District
+601200,Palmerston,14,Otago Region,68,Waitaki District
+601301,Waihemo,14,Otago Region,68,Waitaki District
+601302,Hyde,14,Otago Region,71,Dunedin City
+601400,Waikouaiti,14,Otago Region,71,Dunedin City
+601500,Aramoana,14,Otago Region,71,Dunedin City
+601602,Waitati,14,Otago Region,71,Dunedin City
+601603,Evansdale,14,Otago Region,71,Dunedin City
+601604,Karitane,14,Otago Region,71,Dunedin City
+601605,Warrington,14,Otago Region,71,Dunedin City
+601700,Nenthorn,14,Otago Region,68,Waitaki District
+601900,Fairfield,14,Otago Region,71,Dunedin City
+602000,Brighton,14,Otago Region,71,Dunedin City
+602100,Waldronville,14,Otago Region,71,Dunedin City
+602200,Outram,14,Otago Region,71,Dunedin City
+602300,Middlemarch,14,Otago Region,71,Dunedin City
+602411,Wyllies Crossing,14,Otago Region,71,Dunedin City
+602412,Wingatui,14,Otago Region,71,Dunedin City
+602421,Kaikorai Hill,14,Otago Region,71,Dunedin City
+602422,Saddle Hill,14,Otago Region,71,Dunedin City
+602500,Taieri,14,Otago Region,71,Dunedin City
+602600,Strath Taieri,14,Otago Region,71,Dunedin City
+602800,Harbourside,14,Otago Region,71,Dunedin City
+602900,Fernhill,14,Otago Region,71,Dunedin City
+603000,High St-Stuart St,14,Otago Region,71,Dunedin City
+603100,Stuart St-Frederick St,14,Otago Region,71,Dunedin City
+603210,Opoho,14,Otago Region,71,Dunedin City
+603220,Forrester Park,14,Otago Region,71,Dunedin City
+603300,North East Valley,14,Otago Region,71,Dunedin City
+603400,Pine Hill,14,Otago Region,71,Dunedin City
+603500,Woodhaugh,14,Otago Region,71,Dunedin City
+603601,North Dunedin,14,Otago Region,71,Dunedin City
+603602,Otago University,14,Otago Region,71,Dunedin City
+603710,Maori Hill,14,Otago Region,71,Dunedin City
+603720,Balmacewen,14,Otago Region,71,Dunedin City
+603810,Glenleith,14,Otago Region,71,Dunedin City
+603820,Helensburgh,14,Otago Region,71,Dunedin City
+603910,Wakari,14,Otago Region,71,Dunedin City
+603920,Halfway Bush,14,Otago Region,71,Dunedin City
+603930,Brockville,14,Otago Region,71,Dunedin City
+604010,Roslyn North,14,Otago Region,71,Dunedin City
+604020,Roslyn South,14,Otago Region,71,Dunedin City
+604110,Mornington,14,Otago Region,71,Dunedin City
+604120,Belleknowes,14,Otago Region,71,Dunedin City
+604130,Kenmure,14,Otago Region,71,Dunedin City
+604210,Caversham,14,Otago Region,71,Dunedin City
+604221,Corstorphine West,14,Otago Region,71,Dunedin City
+604222,Corstorphine East,14,Otago Region,71,Dunedin City
+604300,Caledonian,14,Otago Region,71,Dunedin City
+604410,South Dunedin,14,Otago Region,71,Dunedin City
+604420,Forbury,14,Otago Region,71,Dunedin City
+604500,St Clair,14,Otago Region,71,Dunedin City
+604611,Musselburgh,14,Otago Region,71,Dunedin City
+604612,Andersons Bay,14,Otago Region,71,Dunedin City
+604620,Vauxhall,14,Otago Region,71,Dunedin City
+604710,St Leonards-Blanket Bay,14,Otago Region,71,Dunedin City
+604720,Ravensbourne,14,Otago Region,71,Dunedin City
+604810,Inner Peninsula,14,Otago Region,71,Dunedin City
+604821,Company Bay,14,Otago Region,71,Dunedin City
+604822,Macandrew Bay,14,Otago Region,71,Dunedin City
+604830,Broad Bay-Portobello,14,Otago Region,71,Dunedin City
+604901,Taiaroa-Cape Saunders,14,Otago Region,71,Dunedin City
+604902,Sandymount,14,Otago Region,71,Dunedin City
+605100,Sawyers Bay,14,Otago Region,71,Dunedin City
+605200,Port Chalmers,14,Otago Region,71,Dunedin City
+605400,St Kilda West,14,Otago Region,71,Dunedin City
+605500,St Kilda Central,14,Otago Region,71,Dunedin City
+605600,St Kilda East,14,Otago Region,71,Dunedin City
+605800,Green Island,14,Otago Region,71,Dunedin City
+605910,Abbotsford,14,Otago Region,71,Dunedin City
+605920,Concord,14,Otago Region,71,Dunedin City
+606100,Mosgiel East,14,Otago Region,71,Dunedin City
+606210,Mosgiel South,14,Otago Region,71,Dunedin City
+606220,East Taieri,14,Otago Region,71,Dunedin City
+606300,Bush Road,14,Otago Region,71,Dunedin City
+606500,Benhar,14,Otago Region,72,Clutha District
+606600,Stirling,14,Otago Region,72,Clutha District
+606700,Bruce,14,Otago Region,72,Clutha District
+606800,Milton,14,Otago Region,72,Clutha District
+606900,Kaitangata,14,Otago Region,72,Clutha District
+607000,Clinton,14,Otago Region,72,Clutha District
+607100,Kaka Point,14,Otago Region,72,Clutha District
+607200,Owaka,14,Otago Region,72,Clutha District
+607300,Clutha,14,Otago Region,72,Clutha District
+607400,Balclutha,14,Otago Region,72,Clutha District
+607501,Teviot,14,Otago Region,69,Central Otago District
+607502,Tuapeka,14,Otago Region,72,Clutha District
+607600,Tapanui,14,Otago Region,72,Clutha District
+607700,Lawrence,14,Otago Region,72,Clutha District
+607800,Roxburgh,14,Otago Region,69,Central Otago District
+607900,Ranfurly,14,Otago Region,69,Central Otago District
+608000,Maniototo,14,Otago Region,69,Central Otago District
+608100,Naseby,14,Otago Region,69,Central Otago District
+608302,Dunstan,14,Otago Region,69,Central Otago District
+608303,Clyde,14,Otago Region,69,Central Otago District
+608304,Hawea,14,Otago Region,70,Queenstown-Lakes District
+608305,Inland Water-Lake Hawea,14,Otago Region,70,Queenstown-Lakes District
+608500,Alexandra,14,Otago Region,69,Central Otago District
+608600,Cromwell,14,Otago Region,69,Central Otago District
+608700,Frankton,14,Otago Region,70,Queenstown-Lakes District
+608800,Wanaka,14,Otago Region,70,Queenstown-Lakes District
+609011,Milford,15,Southland Region,73,Southland District
+609013,Glenorchy,14,Otago Region,70,Queenstown-Lakes District
+609014,Kingston South,14,Otago Region,70,Queenstown-Lakes District
+609022,Kelvin Heights,14,Otago Region,70,Queenstown-Lakes District
+609023,Sunshine Bay,14,Otago Region,70,Queenstown-Lakes District
+609027,Inland Water-Lake Wakatipu,14,Otago Region,70,Queenstown-Lakes District
+609028,Lake Hayes,14,Otago Region,70,Queenstown-Lakes District
+609029,Matukituki,14,Otago Region,70,Queenstown-Lakes District
+609030,Inland Water-Lake Wanaka,14,Otago Region,70,Queenstown-Lakes District
+609031,Outer Wakatipu,14,Otago Region,70,Queenstown-Lakes District
+609032,Wakatipu Basin,14,Otago Region,70,Queenstown-Lakes District
+609033,Frankton East,14,Otago Region,70,Queenstown-Lakes District
+609034,Lake Hayes South,14,Otago Region,70,Queenstown-Lakes District
+609035,Jacks Point,14,Otago Region,70,Queenstown-Lakes District
+609200,Arrowtown,14,Otago Region,70,Queenstown-Lakes District
+609302,Queenstown Hill,14,Otago Region,70,Queenstown-Lakes District
+609303,Arthurs Point,14,Otago Region,70,Queenstown-Lakes District
+609304,Queenstown Bay,14,Otago Region,70,Queenstown-Lakes District
+609400,Balfour Community,15,Southland Region,73,Southland District
+609500,Riversdale Community,15,Southland Region,73,Southland District
+609600,Lumsden Community,15,Southland Region,73,Southland District
+609700,Edendale Community,15,Southland Region,73,Southland District
+609800,Wyndham,15,Southland Region,73,Southland District
+609911,Makarewa North,15,Southland Region,73,Southland District
+609912,Makarewa,15,Southland Region,75,Invercargill City
+609913,Bay Road West,15,Southland Region,75,Invercargill City
+609914,Mill Road-Woodend,15,Southland Region,75,Invercargill City
+609921,Bushy Point,15,Southland Region,75,Invercargill City
+609922,Otatara,15,Southland Region,75,Invercargill City
+610010,Charlton,15,Southland Region,74,Gore District
+610020,Waikaia,15,Southland Region,73,Southland District
+610031,Kaweku,15,Southland Region,73,Southland District
+610032,Chatton,15,Southland Region,74,Gore District
+610033,Kaiwera,15,Southland Region,74,Gore District
+610040,Hokonui,15,Southland Region,73,Southland District
+610051,Waianiwa,15,Southland Region,73,Southland District
+610052,Oreti Beach,15,Southland Region,75,Invercargill City
+610061,Dacre,15,Southland Region,73,Southland District
+610062,Myross Bush,15,Southland Region,75,Invercargill City
+610072,Waituna,15,Southland Region,73,Southland District
+610073,Woodlands,15,Southland Region,73,Southland District
+610074,Greenhills,15,Southland Region,75,Invercargill City
+610075,Tiwai Point,15,Southland Region,75,Invercargill City
+610080,Toetoes,15,Southland Region,73,Southland District
+610090,Wallacetown,15,Southland Region,73,Southland District
+610210,North Gore,15,Southland Region,74,Gore District
+610220,East Gore,15,Southland Region,74,Gore District
+610230,Central Gore,15,Southland Region,74,Gore District
+610240,West Gore,15,Southland Region,74,Gore District
+610250,South Gore,15,Southland Region,74,Gore District
+610400,Mataura,15,Southland Region,74,Gore District
+610500,Winton,15,Southland Region,73,Southland District
+610601,Grasmere,15,Southland Region,75,Invercargill City
+610602,Waikiwi,15,Southland Region,75,Invercargill City
+610700,Rosedale,15,Southland Region,75,Invercargill City
+610800,Gladstone-Avenal,15,Southland Region,75,Invercargill City
+610900,Windsor,15,Southland Region,75,Invercargill City
+611001,Waverley-Glengarry,15,Southland Region,75,Invercargill City
+611002,Hawthorndale,15,Southland Region,75,Invercargill City
+611100,Richmond,15,Southland Region,75,Invercargill City
+611210,Otakaro Park,15,Southland Region,75,Invercargill City
+611220,Crinan,15,Southland Region,75,Invercargill City
+611300,West Invercargill,15,Southland Region,75,Invercargill City
+611400,Georgetown,15,Southland Region,75,Invercargill City
+611500,Newfield-Rockdale,15,Southland Region,75,Invercargill City
+611601,Heidelberg,15,Southland Region,75,Invercargill City
+611602,Strathern,15,Southland Region,75,Invercargill City
+611700,Appleby-Kew,15,Southland Region,75,Invercargill City
+611800,Kingswell-Clifton,15,Southland Region,75,Invercargill City
+611900,Tisbury,15,Southland Region,75,Invercargill City
+612100,Bluff,15,Southland Region,75,Invercargill City
+612200,Nightcaps,15,Southland Region,73,Southland District
+612300,Ohai,15,Southland Region,73,Southland District
+612400,Te Anau,15,Southland Region,73,Southland District
+612500,Tuatapere,15,Southland Region,73,Southland District
+612600,Otautau,15,Southland Region,73,Southland District
+612712,Manapouri,15,Southland Region,73,Southland District
+612713,Mossburn,15,Southland Region,73,Southland District
+612714,Mararoa River,15,Southland Region,73,Southland District
+612715,Inland Water-Lake Te Anau,15,Southland Region,73,Southland District
+612720,Wairio,15,Southland Region,73,Southland District
+612730,Te Waewae,15,Southland Region,73,Southland District
+612740,Fairfax,15,Southland Region,73,Southland District
+612801,Riverton East,15,Southland Region,73,Southland District
+612802,Riverton West,15,Southland Region,73,Southland District
+612901,Fiordland,15,Southland Region,73,Southland District
+612902,Inland Water-Lake Manapouri,15,Southland Region,73,Southland District
+612903,Inland Water-Lake Hauroko,15,Southland Region,73,Southland District
+613000,Stewart Island,15,Southland Region,73,Southland District
+614001,Oceanic-Kermadec Islands,99,Area Outside Region,999,Area Outside Territorial Authority
+614002,Kermadec Islands,99,Area Outside Region,999,Area Outside Territorial Authority
+614502,Inlet-Hokianga Harbour,1,Northland Region,1,Far North District
+614503,Three Kings Islands,99,Area Outside Region,999,Area Outside Territorial Authority
+614504,Oceanic-Northland Region,1,Northland Region,999,Area Outside Territorial Authority
+614601,Inlet-Rangaunu Harbour,1,Northland Region,1,Far North District
+614602,Inlet-Doubtless Bay,1,Northland Region,999,Area Outside Territorial Authority
+614700,Inlet-Whangaroa Harbour,1,Northland Region,1,Far North District
+614800,Inlet-Bay of Islands,1,Northland Region,1,Far North District
+615101,Inlet-Tutukaka Harbour,1,Northland Region,2,Whangarei District
+615102,Inlet-Whangarei Harbour,1,Northland Region,2,Whangarei District
+615301,Inlet-Port Whangarei,1,Northland Region,2,Whangarei District
+615302,Inlet-Mangawhai Harbour,1,Northland Region,3,Kaipara District
+615800,Mokohinau Island,2,Auckland Region,76,Auckland
+615900,Little Barrier Island,2,Auckland Region,76,Auckland
+616001,Kaikoura and Rangiahua Islands,2,Auckland Region,76,Auckland
+616002,Inlet-Port Fitzroy,2,Auckland Region,76,Auckland
+616100,Cape Barrier,2,Auckland Region,76,Auckland
+616200,Rakitu Island,2,Auckland Region,76,Auckland
+616300,Browns Island,2,Auckland Region,76,Auckland
+616400,Aiguilles Island,2,Auckland Region,76,Auckland
+617000,Inlet-Kaipara Harbour North,1,Northland Region,999,Area Outside Territorial Authority
+617101,Inlet-Kaipara Harbour South,2,Auckland Region,76,Auckland
+617102,Inlet-Kaipara River,2,Auckland Region,76,Auckland
+617200,Inlet-Takapuna Head,2,Auckland Region,76,Auckland
+617400,Inlet-Hobson Bay,2,Auckland Region,76,Auckland
+617501,Oceanic-Auckland Region East,2,Auckland Region,76,Auckland
+617502,Tidal-Great Barrier Island,2,Auckland Region,76,Auckland
+617503,Tidal-Motutapu and Browns Islands,2,Auckland Region,76,Auckland
+617602,Oceanic-Auckland Region West,2,Auckland Region,76,Auckland
+617604,Tidal-Manukau Harbour,2,Auckland Region,76,Auckland
+617605,Inlet-Manukau Harbour,2,Auckland Region,76,Auckland
+617606,Tidal-Manukau Harbour North,2,Auckland Region,76,Auckland
+617702,Tidal-Tamaki,2,Auckland Region,76,Auckland
+617703,Tamaki Strait,2,Auckland Region,76,Auckland
+617704,Tidal-Eastern Bays,2,Auckland Region,76,Auckland
+617800,Inlet-Waiuku River,2,Auckland Region,76,Auckland
+617901,Inlet-Waitemata Harbour,2,Auckland Region,76,Auckland
+617902,Tidal-Waitemata Harbour,2,Auckland Region,76,Auckland
+617903,Auckland City-Marinas,2,Auckland Region,76,Auckland
+618300,Te Motu Island,3,Waikato Region,18,Otorohanga District
+618400,Motiti Island,4,Bay of Plenty Region,999,Area Outside Territorial Authority
+618500,Mayor Island,4,Bay of Plenty Region,999,Area Outside Territorial Authority
+619000,Inlet-Raglan Harbour,3,Waikato Region,13,Waikato District
+619101,Inlet-Aotea Harbour North,3,Waikato Region,13,Waikato District
+619102,Inlets-Otorohanga District,3,Waikato Region,18,Otorohanga District
+619201,Inlet-Waitomo District,3,Waikato Region,20,Waitomo District
+619202,Oceanic-Waikato Region West,3,Waikato Region,999,Area Outside Territorial Authority
+619301,Inlets-Thames-Coromandel District,3,Waikato Region,11,Thames-Coromandel District
+619302,Islands-Thames-Coromandel District,3,Waikato Region,11,Thames-Coromandel District
+619303,Bays-Thames-Coromandel District,3,Waikato Region,999,Area Outside Territorial Authority
+619400,Oceanic-Waikato Region East,3,Waikato Region,999,Area Outside Territorial Authority
+619500,Inlet-Firth of Thames,3,Waikato Region,999,Area Outside Territorial Authority
+619701,Moutohora Island,4,Bay of Plenty Region,999,Area Outside Territorial Authority
+619702,Oceanic-Bay of Plenty Region,4,Bay of Plenty Region,999,Area Outside Territorial Authority
+619900,White Island,4,Bay of Plenty Region,999,Area Outside Territorial Authority
+620000,Inland Water-Lake Taupo,3,Waikato Region,21,Taupo District
+620400,Oceanic-Gisborne Region,5,Gisborne Region,999,Area Outside Territorial Authority
+620901,Inlet-Port Napier,6,Hawke's Bay Region,999,Area Outside Territorial Authority
+620903,Oceanic-Hawke's Bay Region,6,Hawke's Bay Region,999,Area Outside Territorial Authority
+620904,Bare Island,6,Hawke's Bay Region,999,Area Outside Territorial Authority
+621401,Port-Taranaki,7,Taranaki Region,999,Area Outside Territorial Authority
+621402,Oceanic-Taranaki Region,7,Taranaki Region,999,Area Outside Territorial Authority
+621500,Oceanic-Oil Rigs Taranaki,99,Area Outside Region,999,Area Outside Territorial Authority
+622000,Oceanic-Tararua Constituency,8,Manawatu-Wanganui Region,999,Area Outside Territorial Authority
+622101,Inlet-Wellington Harbour,9,Wellington Region,999,Area Outside Territorial Authority
+622102,Seaview Marina,9,Wellington Region,46,Lower Hutt City
+622201,Inlet-Porirua Harbour,9,Wellington Region,44,Porirua City
+622202,Oceanic-Wellington Region,9,Wellington Region,999,Area Outside Territorial Authority
+622700,Oceanic-Manawatu-Wanganui Region,8,Manawatu-Wanganui Region,999,Area Outside Territorial Authority
+623801,Inlet-Tasman Bay,17,Nelson Region,52,Nelson City
+623803,Oceanic-Tasman Region,16,Tasman Region,51,Tasman District
+623804,Oceanic-Nelson Region,17,Nelson Region,999,Area Outside Territorial Authority
+623805,Oceanic-Marlborough Region,18,Marlborough Region,999,Area Outside Territorial Authority
+623806,Oceanic-Canterbury Region North,13,Canterbury Region,999,Area Outside Territorial Authority
+623900,Inlet-Ligar Bay,16,Tasman Region,51,Tasman District
+624100,Inlet-Buller River,12,West Coast Region,55,Buller District
+624600,Oceanic-West Coast Region,12,West Coast Region,999,Area Outside Territorial Authority
+625101,Inlet-Port Lyttelton,13,Canterbury Region,60,Christchurch City
+625102,Inlets-Banks Peninsula Bays,13,Canterbury Region,60,Christchurch City
+625103,Oceanic-Canterbury Region South,13,Canterbury Region,999,Area Outside Territorial Authority
+625200,Oceanic-Chatham Islands,99,Area Outside Region,67,Chatham Islands Territory
+625300,Inlet-Port Timaru,13,Canterbury Region,64,Timaru District
+625800,Inlet-Otago Harbour,14,Otago Region,71,Dunedin City
+625901,Inlet-Dunedin City Bays,14,Otago Region,71,Dunedin City
+625902,Oceanic-Otago Region,14,Otago Region,999,Area Outside Territorial Authority
+626000,Inlet-Port Oamaru,14,Otago Region,68,Waitaki District
+626100,Inlet-Milford Sound,15,Southland Region,73,Southland District
+626500,Dog Island,15,Southland Region,75,Invercargill City
+626601,Oceanic-Campbell Island,99,Area Outside Region,999,Area Outside Territorial Authority
+626602,Campbell Island,99,Area Outside Region,999,Area Outside Territorial Authority
+626700,Centre Island,15,Southland Region,73,Southland District
+626801,Inlet-Bluff Harbour,15,Southland Region,75,Invercargill City
+626802,Inlet-New River Estuary,15,Southland Region,75,Invercargill City
+626900,Oceanic-Oil Rig Southland,99,Area Outside Region,999,Area Outside Territorial Authority
+627000,Inlet-Jacobs River Estuary,15,Southland Region,73,Southland District
+627201,Oceanic-Southland Region,15,Southland Region,999,Area Outside Territorial Authority
+627203,Oceanic-Auckland Islands,99,Area Outside Region,999,Area Outside Territorial Authority
+627204,Auckland Islands,99,Area Outside Region,999,Area Outside Territorial Authority
+628000,Ross Dependency,99,Area Outside Region,999,Area Outside Territorial Authority
+666667,NZ Economic Zone,99,Area Outside Region,999,Area Outside Territorial Authority
+666668,Oceanic-Bounty Islands,99,Area Outside Region,999,Area Outside Territorial Authority
+666669,Bounty Islands,99,Area Outside Region,999,Area Outside Territorial Authority
+666670,Oceanic-Snares Islands,99,Area Outside Region,999,Area Outside Territorial Authority
+666671,Snares Island,99,Area Outside Region,999,Area Outside Territorial Authority
+666672,Oceanic-Antipodes Islands,99,Area Outside Region,999,Area Outside Territorial Authority
+666673,Antipodes Islands,99,Area Outside Region,999,Area Outside Territorial Authority
