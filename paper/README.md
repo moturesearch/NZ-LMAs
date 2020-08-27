@@ -27,7 +27,7 @@ It contains three variables:
 File | Description
 --- | ---
 `allocations.csv` | Crosswalk between area units (`au13`), LMAs (`lma`), and sub-LMAs (`sub_lma`) in each census year (`year`). Also includes LMA and sub-LMA classification stabilities.
-`distance-thresholds.csv` | Flows between known and non-oceanic residential and workplace addresses, aggregated by estimated commute distance (in 50km bins) and census year.
+`distance-thresholds.csv` | Sum of commuting flows included in our cleaned data (our "sample"), aggregated by estimated commute distance (in 50km bins) and census year.
 `ensembles-main.csv` | Communities to which area units are assigned in each of 250 runs of the Louvain algorithm, by census year.
 `ensembles-sub.csv` | Sub-communities to which area units are assigned in each of 250 runs of the Louvain algorithm, by census year.
 `geographies.csv` | Crosswalk between area units, regional councils (`rc13`) and territorial authorities (`ta13`), derived from the 2013 Annual Areas file available [here](http://archive.stats.govt.nz/browse_for_stats/Maps_and_geography/Geographic-areas/geographic-area-files.aspx) (retrieved July 8, 2019).
