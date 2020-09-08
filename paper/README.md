@@ -1,6 +1,6 @@
 # Delineating functional labour market areas with estimable classification stabilities
 
-This folder contains the source files for the paper describing our LMA delineation method.
+This folder contains the source files for [the paper describing our LMA delineation method][paper].
 
 ## Workflow
 
@@ -41,3 +41,5 @@ File | Description
 
 We use several R packages, identified at the start of the scripts in `code/` and in the log files in `logs/`.
 All required packages are available on [CRAN](https://cran.r-project.org/).
+
+[paper]: http://ftp.iza.org/dp13642.pdf

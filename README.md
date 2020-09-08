@@ -4,7 +4,7 @@
 
 This repository contains concordance tables ("crosswalks") between New Zealand area unit and labour market area codes.
 We derive these tables from commuting data collected as part of the 2001--2013 New Zealand Censuses.
-`paper/` contains the source files for the paper describing our derivation method.
+`paper/` contains the source files for [the paper describing our derivation method][paper].
 
 ## Data dictionary
 
@@ -17,3 +17,5 @@ Variable | Type | Description
 ## License
 
 [MIT](LICENSE)
+
+[paper]: http://ftp.iza.org/dp13642.pdf
